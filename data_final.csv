@@ -1,0 +1,3756 @@
+experience_level,job_title,salary_in_usd,company_location,company_size
+SE,autre,85847,ES,L
+MI,autre,30000,US,S
+MI,autre,25500,US,S
+SE,Data Scientist,175000,CA,M
+SE,Data Scientist,120000,CA,M
+SE,Applied Scientist,222200,US,L
+SE,Applied Scientist,136000,US,L
+SE,Data Scientist,219000,CA,M
+SE,Data Scientist,141000,CA,M
+SE,Data Scientist,147100,US,M
+SE,Data Scientist,90700,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,100000,US,M
+EN,Applied Scientist,213660,US,L
+EN,Applied Scientist,130760,US,L
+SE,autre,147100,US,M
+SE,autre,90700,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,150000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,110000,US,M
+SE,autre,275000,DE,M
+SE,autre,174000,DE,M
+SE,Analytics Engineer,230000,GB,M
+SE,Analytics Engineer,143200,GB,M
+SE,autre,225000,US,M
+SE,autre,156400,US,M
+SE,Machine Learning Engineer,200000,US,M
+SE,Machine Learning Engineer,130000,US,M
+SE,autre,90000,CA,M
+SE,autre,72000,CA,M
+SE,Data Engineer,253200,US,M
+SE,Data Engineer,90700,US,M
+SE,autre,342810,US,M
+SE,autre,184590,US,M
+MI,Data Engineer,162500,US,M
+MI,Data Engineer,130000,US,M
+MI,Data Analyst,105380,US,M
+MI,Data Analyst,64500,US,M
+EN,autre,100000,autre,L
+EN,autre,30000,autre,L
+MI,Machine Learning Engineer,20984,IN,L
+EN,Applied Scientist,204620,US,L
+EN,Applied Scientist,110680,US,L
+SE,Data Engineer,270703,US,M
+SE,Data Engineer,221484,US,M
+SE,Data Scientist,212750,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Scientist,262000,US,M
+SE,Data Scientist,245000,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183500,US,M
+SE,Data Scientist,218500,US,M
+SE,Data Scientist,199098,US,M
+SE,Data Engineer,203300,US,M
+SE,Data Engineer,123600,US,M
+SE,autre,189110,US,M
+SE,autre,139000,US,M
+EX,Data Scientist,258750,US,M
+EX,Data Scientist,185000,US,M
+SE,Data Engineer,231500,US,M
+SE,Data Engineer,166000,US,M
+SE,Data Scientist,172500,US,M
+SE,Data Scientist,110500,US,M
+SE,Data Engineer,238000,US,M
+SE,Data Engineer,176000,US,M
+SE,Data Engineer,237000,US,M
+SE,Data Engineer,201450,US,M
+SE,Applied Scientist,309400,US,L
+SE,Applied Scientist,159100,US,L
+SE,Data Engineer,115000,US,M
+SE,Data Engineer,81500,US,M
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,201450,US,M
+SE,autre,280000,US,M
+SE,autre,210000,US,M
+SE,Data Architect,280100,US,M
+SE,Data Architect,168100,US,M
+SE,Data Engineer,193500,US,M
+SE,Data Engineer,139000,US,M
+MI,Data Scientist,65062,autre,L
+SE,Machine Learning Engineer,150000,US,M
+MI,autre,69751,DE,S
+EN,autre,300000,IN,L
+MI,Machine Learning Engineer,96578,autre,L
+SE,autre,185900,US,M
+SE,autre,129300,US,M
+SE,Data Engineer,225000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,185000,US,M
+SE,Data Engineer,140000,US,M
+SE,Data Scientist,48289,ES,M
+SE,Data Scientist,38631,ES,M
+SE,Data Scientist,105000,US,M
+SE,Data Scientist,70000,US,M
+EN,Machine Learning Engineer,163196,US,M
+EN,Machine Learning Engineer,145885,US,M
+SE,Data Engineer,217000,US,M
+SE,Data Engineer,185000,US,M
+SE,Data Analyst,202800,US,L
+SE,Data Analyst,104300,US,L
+SE,Data Analyst,145000,US,M
+SE,Data Analyst,65000,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Engineer,132300,US,M
+SE,Data Engineer,179170,US,M
+SE,Data Engineer,94300,US,M
+SE,Analytics Engineer,152500,US,M
+SE,Analytics Engineer,116450,US,M
+SE,Data Engineer,247300,US,M
+SE,Data Engineer,133800,US,M
+SE,autre,203000,US,M
+SE,autre,133000,US,M
+EN,Research Scientist,220000,US,L
+EN,Machine Learning Engineer,56536,autre,S
+SE,Data Scientist,150000,US,M
+SE,Data Scientist,120000,US,M
+SE,Analytics Engineer,289800,US,M
+SE,Analytics Engineer,214000,US,M
+SE,Analytics Engineer,179820,US,M
+SE,Analytics Engineer,143860,US,M
+SE,Machine Learning Engineer,283200,US,M
+SE,Machine Learning Engineer,188800,US,M
+SE,Analytics Engineer,289800,US,M
+SE,Analytics Engineer,214200,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+MI,autre,155000,US,M
+MI,autre,140000,US,M
+SE,Data Engineer,161800,US,M
+SE,Data Engineer,141600,US,M
+SE,Machine Learning Engineer,342300,US,L
+SE,Machine Learning Engineer,176100,US,L
+MI,Data Engineer,100000,US,M
+MI,Data Engineer,70000,US,M
+EN,Data Engineer,85000,US,M
+EN,Data Engineer,65000,US,M
+SE,Data Scientist,138784,US,M
+SE,Data Scientist,83270,US,M
+EN,Data Analyst,75000,US,M
+EN,Data Analyst,70000,US,M
+SE,Data Analyst,204500,US,M
+SE,Data Analyst,138900,US,M
+SE,Machine Learning Engineer,318300,US,M
+SE,Machine Learning Engineer,212200,US,M
+SE,Data Engineer,95000,US,M
+SE,Data Engineer,75000,US,M
+SE,Data Scientist,195000,US,M
+SE,Data Scientist,160000,US,M
+SE,Analytics Engineer,230000,US,M
+SE,Analytics Engineer,143200,US,M
+MI,Data Engineer,100000,US,M
+MI,Data Engineer,70000,US,M
+MI,autre,105000,US,L
+MI,autre,20670,IN,L
+MI,Data Analyst,46178,GB,M
+MI,Data Analyst,42533,GB,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,Data Analyst,168400,US,M
+SE,Data Analyst,105200,US,M
+SE,Applied Scientist,309400,US,L
+SE,Applied Scientist,159100,US,L
+SE,Machine Learning Engineer,190000,US,M
+SE,Machine Learning Engineer,150000,US,M
+MI,Data Engineer,162500,US,M
+MI,Data Engineer,130000,US,M
+SE,Analytics Engineer,150000,US,M
+SE,Analytics Engineer,120000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,120000,US,M
+SE,Applied Scientist,222200,US,L
+SE,Applied Scientist,136000,US,L
+SE,Data Analyst,54685,autre,M
+SE,Data Analyst,42533,autre,M
+SE,Data Engineer,241000,US,M
+SE,Data Engineer,155000,US,M
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,190000,US,M
+MI,Data Scientist,66837,GB,M
+MI,Data Scientist,54685,GB,M
+EX,autre,15000,CA,M
+MI,autre,85066,GB,M
+MI,autre,57723,GB,M
+EN,Data Analyst,85000,US,M
+EN,Data Analyst,75000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,140000,US,M
+MI,Machine Learning Engineer,300000,US,M
+MI,Machine Learning Engineer,250000,US,M
+SE,Data Scientist,228000,US,M
+SE,Data Scientist,186000,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,170000,US,M
+MI,autre,230000,US,M
+MI,autre,200000,US,M
+SE,Data Architect,180000,US,M
+SE,Data Architect,115000,US,M
+SE,Data Architect,200000,US,M
+SE,Data Architect,115000,US,M
+SE,autre,53654,autre,S
+EX,Data Engineer,220000,US,M
+EX,Data Engineer,205000,US,M
+MI,Data Engineer,180000,US,M
+MI,Data Engineer,130000,US,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,150000,US,M
+SE,autre,215000,US,M
+SE,autre,170000,US,M
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+SE,Data Scientist,224000,CA,M
+SE,Data Scientist,176000,CA,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,75000,US,M
+EN,Data Engineer,17022,IN,L
+SE,autre,68318,autre,M
+MI,autre,75020,autre,M
+SE,Data Analyst,140000,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Engineer,128000,US,M
+SE,Data Engineer,81500,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,Data Engineer,185000,US,M
+SE,Data Engineer,140000,US,M
+EX,autre,329500,US,M
+EX,autre,269600,US,M
+SE,autre,100000,US,M
+SE,autre,80000,US,M
+SE,Data Scientist,250000,US,M
+SE,Data Scientist,162500,US,M
+MI,autre,200000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,100000,US,M
+EX,Data Engineer,145000,US,M
+EX,Data Engineer,115000,US,M
+SE,Data Scientist,203500,US,M
+SE,Data Scientist,152000,US,M
+SE,Data Scientist,239000,US,L
+SE,Data Scientist,122900,US,L
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Science Manager,191765,US,M
+SE,Data Science Manager,134236,US,M
+SE,Analytics Engineer,190000,US,M
+SE,Analytics Engineer,112000,US,M
+SE,Data Scientist,88256,GB,L
+EN,Data Engineer,85000,US,M
+EN,Data Engineer,65000,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Analyst,105500,US,M
+SE,autre,293000,US,M
+SE,autre,185000,US,M
+SE,Data Analyst,80000,US,M
+SE,Data Analyst,70000,US,M
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Analyst,200000,US,M
+SE,Data Analyst,148500,US,M
+SE,Data Scientist,48289,ES,M
+SE,Data Scientist,38631,ES,M
+SE,Data Engineer,240500,US,L
+SE,Data Engineer,123700,US,L
+SE,Analytics Engineer,152900,US,M
+SE,Analytics Engineer,117100,US,M
+SE,Analytics Engineer,173000,US,M
+SE,Analytics Engineer,113000,US,M
+SE,Applied Scientist,260000,US,L
+SE,Applied Scientist,136000,US,L
+EX,Data Engineer,175000,US,M
+EX,Data Engineer,110000,US,M
+SE,Applied Scientist,260000,US,L
+SE,Applied Scientist,136000,US,L
+SE,Research Scientist,130000,US,M
+SE,Research Scientist,110000,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,184000,US,M
+SE,Data Analyst,149500,US,M
+SE,Data Analyst,127075,US,M
+SE,Data Scientist,195000,US,M
+SE,Data Scientist,160000,US,M
+SE,Data Engineer,219535,US,M
+SE,Data Engineer,146115,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,135000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Scientist,199000,US,M
+SE,Data Scientist,162000,US,M
+SE,Applied Scientist,222200,US,L
+SE,Applied Scientist,136000,US,L
+EX,Analytics Engineer,221000,US,M
+EX,Analytics Engineer,153000,US,M
+SE,Data Analyst,187000,US,M
+SE,Data Analyst,128000,US,M
+SE,Research Scientist,210000,US,M
+SE,Research Scientist,136000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,100000,US,M
+SE,Data Engineer,179000,US,M
+SE,Data Engineer,109000,US,M
+SE,Data Scientist,245000,US,M
+SE,Data Scientist,180000,US,M
+SE,Data Analyst,142000,US,M
+SE,Data Analyst,75000,US,M
+SE,autre,198800,US,M
+SE,autre,105200,US,M
+SE,Data Analyst,125000,US,M
+SE,Data Analyst,112000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,155000,US,M
+SE,autre,115000,US,M
+SE,autre,86000,US,M
+SE,Data Scientist,165000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Analyst,139000,US,M
+SE,Data Analyst,106000,US,M
+EN,Data Analyst,40663,CA,L
+SE,autre,275000,CA,S
+SE,autre,50000,autre,S
+MI,Machine Learning Engineer,280700,US,M
+MI,Machine Learning Engineer,150450,US,M
+EN,Data Scientist,51753,CA,L
+SE,Data Architect,250500,US,M
+SE,Data Architect,159500,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,Data Analyst,140000,US,M
+SE,Data Analyst,120000,US,M
+EN,Data Scientist,130001,US,M
+EN,Data Scientist,71907,US,M
+MI,Data Scientist,93918,US,M
+MI,Data Scientist,51962,US,M
+SE,Data Analyst,175000,CA,M
+SE,Data Analyst,135000,CA,M
+EN,Data Engineer,85000,US,M
+EN,Data Engineer,65000,US,M
+SE,Machine Learning Engineer,257000,US,M
+SE,Machine Learning Engineer,147000,US,M
+SE,Data Engineer,222000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Scientist,203000,US,M
+SE,Data Scientist,133200,US,M
+EN,Applied Scientist,213660,US,L
+EN,Applied Scientist,130760,US,L
+SE,Data Engineer,221000,US,M
+SE,Data Engineer,147000,US,M
+SE,autre,100000,US,M
+SE,autre,80000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Scientist,238000,US,M
+SE,Data Scientist,156000,US,M
+SE,Machine Learning Engineer,304000,US,M
+SE,Machine Learning Engineer,199000,US,M
+MI,autre,48289,ES,M
+SE,Data Engineer,150000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,110000,US,M
+MI,Data Analyst,90000,US,M
+MI,Data Analyst,75000,US,M
+MI,Research Scientist,195895,GB,M
+MI,Research Scientist,102772,GB,M
+SE,Data Engineer,240000,US,M
+SE,Data Engineer,183600,US,M
+MI,autre,130000,US,M
+MI,autre,80000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,150000,US,M
+SE,autre,160000,US,M
+SE,autre,120000,US,M
+SE,Machine Learning Engineer,289076,US,M
+SE,Machine Learning Engineer,202353,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Analyst,155000,US,M
+SE,Data Analyst,106000,US,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Scientist,157750,US,M
+SE,Data Scientist,104650,US,M
+MI,Data Scientist,180000,US,M
+MI,Data Scientist,140000,US,M
+EX,Data Scientist,200000,US,M
+EX,Data Scientist,145000,US,M
+MI,autre,68000,US,L
+EN,autre,60000,US,M
+SE,Data Scientist,48289,ES,M
+SE,Data Scientist,38631,ES,M
+EN,Data Engineer,85000,US,M
+EN,Data Engineer,65000,US,M
+MI,Data Engineer,125000,US,M
+MI,Data Engineer,90000,US,M
+SE,Data Analyst,105000,US,M
+SE,Data Analyst,90000,US,M
+SE,Analytics Engineer,179820,US,M
+SE,Analytics Engineer,143860,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Analyst,105500,US,M
+EN,autre,155000,US,M
+EN,autre,125000,US,M
+SE,Machine Learning Engineer,241000,US,M
+SE,Machine Learning Engineer,181000,US,M
+SE,Data Scientist,252000,US,M
+SE,Data Scientist,154000,US,M
+EX,Data Architect,180000,US,M
+EX,Data Architect,155000,US,M
+SE,Data Scientist,191765,US,M
+SE,Data Scientist,134236,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,145000,US,M
+EN,autre,155000,US,M
+EN,autre,125000,US,M
+SE,Data Analyst,80000,US,M
+SE,Data Analyst,70000,US,M
+SE,Data Engineer,146000,US,M
+SE,Data Engineer,75000,US,M
+EN,Data Analyst,64200,US,M
+EN,Data Analyst,56100,US,M
+SE,Machine Learning Engineer,170000,US,M
+SE,Machine Learning Engineer,130000,US,M
+SE,Data Analyst,208450,US,M
+SE,Data Analyst,170550,US,M
+SE,Machine Learning Engineer,125000,US,M
+SE,Machine Learning Engineer,100000,US,M
+MI,autre,135000,US,M
+MI,autre,120000,US,M
+SE,Data Scientist,200000,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,171250,autre,M
+SE,Data Scientist,113750,autre,M
+SE,Applied Scientist,222200,US,L
+SE,Applied Scientist,136000,US,L
+SE,Applied Scientist,260000,US,L
+SE,Applied Scientist,136000,US,L
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,100500,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,184000,US,M
+SE,Machine Learning Engineer,115000,CA,M
+SE,Machine Learning Engineer,95000,CA,M
+MI,Data Analyst,182500,US,M
+MI,Data Analyst,121500,US,M
+SE,Data Engineer,203100,US,M
+SE,Data Engineer,114500,US,M
+MI,Data Analyst,72914,GB,M
+MI,Data Analyst,54685,GB,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+EN,Data Engineer,92700,US,M
+EN,Data Engineer,61800,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Scientist,258000,CA,M
+SE,Data Scientist,190000,CA,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,135000,US,M
+MI,Data Architect,167500,US,M
+MI,Data Architect,106500,US,M
+SE,Data Scientist,195000,US,M
+SE,Data Scientist,160000,US,M
+MI,Data Engineer,146000,US,M
+MI,Data Engineer,75000,US,M
+EN,Data Engineer,59888,autre,L
+EX,Data Engineer,286000,US,M
+EX,Data Engineer,207000,US,M
+SE,Data Analyst,100000,US,M
+SE,Data Analyst,80000,US,M
+SE,Data Engineer,223250,US,M
+SE,Data Engineer,178600,US,M
+EX,autre,353200,US,M
+EX,autre,249300,US,M
+MI,autre,230000,US,M
+MI,autre,220000,US,M
+SE,Data Scientist,297300,US,M
+SE,Data Scientist,198200,US,M
+MI,Research Scientist,210000,US,M
+MI,Research Scientist,151800,US,M
+SE,Data Scientist,200000,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,317070,US,M
+SE,Data Scientist,170730,US,M
+SE,Data Engineer,128000,US,M
+SE,Data Engineer,81500,US,M
+EN,autre,21461,ES,M
+SE,autre,108000,autre,M
+SE,autre,60000,autre,M
+MI,autre,134000,US,M
+MI,autre,124000,US,M
+SE,Data Engineer,171250,US,M
+SE,Data Engineer,113750,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Engineer,132300,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Engineer,230000,US,M
+SE,Data Engineer,124500,US,M
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+SE,Data Analyst,175000,US,M
+SE,Data Analyst,145000,US,M
+SE,Data Analyst,148700,US,M
+SE,Data Analyst,125600,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,Research Scientist,200000,US,M
+SE,Research Scientist,150000,US,M
+EN,autre,160000,US,M
+EN,autre,120000,US,M
+SE,Data Analyst,185000,US,M
+SE,Data Analyst,120250,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183000,US,M
+SE,Data Architect,170000,US,M
+SE,Data Architect,125000,US,M
+MI,Data Architect,167500,US,M
+MI,Data Architect,106500,US,M
+SE,Research Scientist,250000,US,M
+SE,Research Scientist,200000,US,M
+MI,Machine Learning Engineer,135000,US,L
+SE,autre,423834,autre,L
+SE,Machine Learning Engineer,216000,US,M
+SE,Machine Learning Engineer,184000,US,M
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,120000,US,M
+MI,Data Engineer,143865,US,M
+MI,Data Engineer,115092,US,M
+MI,Machine Learning Engineer,130000,US,M
+MI,Machine Learning Engineer,90000,US,M
+SE,Data Scientist,173000,US,M
+SE,Data Scientist,132000,US,M
+SE,Data Analyst,208049,US,M
+SE,Data Analyst,128500,US,M
+SE,Analytics Engineer,179820,US,M
+SE,Analytics Engineer,143860,US,M
+SE,Data Engineer,167500,US,M
+SE,Data Engineer,106500,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183500,US,M
+MI,Data Engineer,149600,US,M
+MI,Data Engineer,102000,US,M
+EX,Data Scientist,145000,US,M
+EX,Data Scientist,100000,US,M
+SE,Data Analyst,190000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,106800,US,M
+MI,Data Scientist,96578,autre,M
+MI,Data Scientist,80481,autre,M
+MI,Data Analyst,128000,US,M
+MI,Data Analyst,85000,US,M
+MI,Data Engineer,151000,US,M
+MI,Data Engineer,140000,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183500,US,M
+SE,autre,220000,US,M
+SE,autre,170000,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Analyst,105500,US,M
+SE,Data Analyst,100000,US,M
+SE,Data Analyst,80000,US,M
+EN,autre,7000,autre,S
+EN,autre,42923,DE,M
+SE,Data Engineer,160000,CA,M
+SE,Data Engineer,145000,CA,M
+MI,Data Analyst,154000,US,M
+MI,Data Analyst,143000,US,M
+MI,Data Scientist,78990,GB,M
+MI,Data Scientist,51039,GB,M
+EN,Data Scientist,190000,US,M
+EN,Data Scientist,120000,US,M
+MI,Data Scientist,85066,GB,M
+MI,Data Scientist,51039,GB,M
+MI,Data Scientist,109371,GB,M
+MI,Data Scientist,72914,GB,M
+SE,Data Engineer,150000,US,M
+SE,Data Engineer,111000,US,M
+EX,Data Engineer,265000,US,M
+EX,Data Engineer,235000,US,M
+EN,Data Scientist,121093,autre,L
+MI,Data Scientist,73546,DE,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+MI,Data Engineer,75000,US,M
+MI,Data Engineer,60400,US,M
+EN,Data Analyst,85000,US,M
+EN,Data Analyst,75000,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+EN,Data Engineer,92700,US,M
+EN,Data Engineer,61800,US,M
+SE,autre,172309,autre,L
+MI,Data Scientist,60093,DE,M
+MI,Data Analyst,83500,US,M
+MI,Data Analyst,52500,US,M
+SE,Data Scientist,201036,US,M
+SE,Data Scientist,134024,US,M
+SE,Data Analyst,165000,US,M
+SE,Data Analyst,140000,US,M
+EN,Data Engineer,62000,US,M
+EN,Data Engineer,58000,US,M
+SE,Data Scientist,172000,US,M
+SE,Data Scientist,115000,US,M
+EN,Data Engineer,125000,US,M
+EN,Data Engineer,90000,US,M
+SE,Data Engineer,163800,US,M
+SE,Data Engineer,126000,US,M
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,145000,US,M
+MI,Data Engineer,90000,US,M
+MI,Data Engineer,90000,US,M
+SE,Data Engineer,139500,US,M
+SE,Data Engineer,109400,US,M
+SE,Data Scientist,258000,CA,M
+SE,Data Scientist,190000,CA,M
+MI,Data Engineer,145000,US,M
+MI,Data Engineer,120000,US,M
+SE,Data Engineer,205600,US,L
+SE,Data Engineer,105700,US,L
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Data Scientist,239748,US,M
+SE,Data Scientist,159832,US,M
+SE,Data Scientist,186300,US,M
+SE,Data Scientist,102500,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Engineer,132300,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,126000,US,M
+SE,Data Architect,149040,US,M
+SE,Data Architect,113900,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+SE,Data Engineer,172600,US,M
+SE,Data Engineer,107900,US,M
+SE,Data Analyst,180180,US,M
+SE,Data Analyst,106020,US,M
+SE,Data Architect,376080,US,M
+SE,Data Architect,213120,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,100500,US,M
+SE,Data Analyst,206500,US,M
+SE,Data Analyst,121600,US,M
+SE,Data Engineer,260000,US,M
+SE,Data Engineer,225000,US,M
+EX,Data Engineer,194500,US,M
+EX,Data Engineer,115500,US,M
+SE,autre,170000,US,L
+SE,autre,90000,US,L
+EN,Data Analyst,95000,US,M
+EN,Data Analyst,70000,US,M
+SE,Data Engineer,275000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,120000,US,M
+SE,Machine Learning Engineer,150000,US,M
+SE,Machine Learning Engineer,120000,US,M
+SE,autre,200000,US,M
+SE,autre,175000,US,M
+MI,Data Analyst,206000,US,M
+MI,Data Analyst,130000,US,M
+SE,Data Architect,138000,GB,M
+SE,Data Architect,92000,GB,M
+SE,autre,65000,autre,M
+SE,autre,48000,autre,M
+SE,Data Analyst,110000,US,M
+SE,Data Analyst,75000,US,M
+SE,Analytics Engineer,130000,US,M
+SE,Analytics Engineer,87000,US,M
+MI,Data Analyst,160000,US,M
+MI,Data Analyst,112000,US,M
+MI,Data Engineer,162500,US,M
+MI,Data Engineer,130000,US,M
+SE,Data Science Manager,299500,US,M
+SE,Data Science Manager,245100,US,M
+MI,Data Scientist,145000,US,M
+MI,Data Scientist,100000,US,M
+SE,Data Engineer,147100,US,M
+SE,Data Engineer,90700,US,M
+EN,Data Engineer,115100,US,M
+EN,Data Engineer,73900,US,M
+SE,Data Engineer,168400,US,M
+SE,Data Engineer,105200,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,160000,US,M
+MI,Data Scientist,145000,US,M
+MI,Data Scientist,100000,US,M
+SE,Applied Scientist,222200,US,L
+SE,Applied Scientist,136000,US,L
+MI,Data Analyst,100000,US,M
+MI,Data Analyst,85000,US,M
+MI,Data Engineer,85066,GB,M
+MI,Data Engineer,57723,GB,M
+EX,Data Scientist,200000,US,M
+EX,Data Scientist,145000,US,M
+MI,Data Engineer,140000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Analyst,185000,US,M
+SE,Data Analyst,120250,US,M
+MI,autre,130000,US,L
+SE,Data Scientist,205000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,297300,US,M
+SE,Data Scientist,198200,US,M
+SE,Research Scientist,141288,US,M
+SE,Research Scientist,94192,US,M
+SE,autre,184000,US,M
+SE,autre,143000,US,M
+SE,Data Analyst,70000,US,M
+SE,Data Analyst,55000,US,M
+SE,Analytics Engineer,275300,US,M
+SE,Analytics Engineer,183500,US,M
+MI,Data Analyst,75000,US,M
+MI,Data Analyst,65000,US,M
+MI,autre,160000,US,M
+MI,autre,147000,US,M
+SE,Data Architect,149040,US,M
+SE,Data Architect,113900,US,M
+MI,autre,75020,autre,L
+SE,Data Analyst,180180,US,M
+SE,Data Analyst,106020,US,M
+MI,Data Scientist,17022,IN,L
+EN,autre,70000,autre,L
+EN,autre,80000,autre,M
+MI,autre,18238,IN,L
+MI,Machine Learning Engineer,250000,US,M
+MI,Machine Learning Engineer,150000,US,M
+SE,Data Engineer,139500,US,M
+SE,Data Engineer,109400,US,M
+SE,Data Scientist,105000,US,M
+SE,Data Scientist,70000,US,M
+EX,Data Engineer,210914,US,M
+EX,Data Engineer,116704,US,M
+EN,Research Scientist,150000,US,M
+EN,Research Scientist,100000,US,M
+SE,Data Engineer,146000,US,M
+SE,Data Engineer,75000,US,M
+EN,Data Analyst,75000,US,M
+EN,Data Analyst,60000,US,M
+MI,Analytics Engineer,185700,US,M
+MI,Analytics Engineer,165000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,autre,193000,US,M
+SE,autre,136850,US,M
+SE,Machine Learning Engineer,139500,US,M
+SE,Machine Learning Engineer,109400,US,M
+SE,Data Engineer,276000,US,M
+SE,Data Engineer,178500,US,M
+MI,Data Scientist,59020,ES,M
+MI,Data Scientist,48289,ES,M
+MI,Data Engineer,75116,autre,M
+MI,Data Engineer,48289,autre,M
+SE,Machine Learning Engineer,195652,GB,M
+SE,Machine Learning Engineer,101228,GB,M
+SE,Data Engineer,136956,GB,M
+SE,Data Engineer,101228,GB,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,autre,130000,US,L
+MI,autre,150000,US,M
+SE,Data Engineer,163800,US,M
+SE,Data Engineer,126000,US,M
+SE,autre,260000,CA,M
+SE,autre,110000,CA,M
+SE,Analytics Engineer,170000,US,M
+SE,Analytics Engineer,130000,US,M
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+SE,Data Scientist,239748,US,M
+SE,Data Scientist,159832,US,M
+SE,Machine Learning Engineer,163800,US,M
+SE,Machine Learning Engineer,126000,US,M
+MI,Data Scientist,128750,US,M
+MI,Data Scientist,106250,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Data Science Manager,299500,US,M
+SE,Data Science Manager,245100,US,M
+MI,autre,155000,US,M
+MI,autre,140000,US,M
+EX,Data Engineer,167500,US,M
+EX,Data Engineer,106500,US,M
+SE,Data Architect,188500,US,M
+SE,Data Architect,117000,US,M
+SE,Data Analyst,250000,US,M
+SE,Data Analyst,138000,US,M
+MI,Data Analyst,130000,CA,M
+MI,Data Analyst,100000,CA,M
+SE,autre,123405,DE,L
+SE,Data Engineer,140000,US,M
+SE,Data Engineer,120000,US,M
+SE,autre,160000,US,M
+SE,autre,135000,US,M
+MI,Data Science Manager,104500,US,M
+MI,Data Science Manager,70000,US,M
+MI,autre,90000,US,M
+MI,autre,70000,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+EN,Data Engineer,125000,US,M
+EN,Data Engineer,90000,US,M
+MI,Research Scientist,185000,US,M
+MI,Research Scientist,125000,US,M
+SE,Data Analyst,127000,US,M
+SE,Data Analyst,94000,US,M
+SE,Data Scientist,210550,US,M
+SE,Data Scientist,153300,US,M
+MI,Data Scientist,200000,US,M
+MI,Data Scientist,150000,US,M
+SE,Data Analyst,161500,US,M
+SE,Data Analyst,119500,US,M
+SE,Data Analyst,175000,US,M
+SE,Data Analyst,145000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,148750,US,M
+SE,autre,105000,US,M
+SE,autre,85000,US,M
+SE,Research Scientist,215000,US,M
+SE,Research Scientist,146300,US,M
+EN,autre,214618,DE,L
+MI,Data Engineer,72000,autre,M
+MI,Data Engineer,60000,autre,M
+SE,Machine Learning Engineer,153400,US,M
+SE,Machine Learning Engineer,122700,US,M
+MI,Data Engineer,260000,US,M
+MI,Data Engineer,175000,US,M
+SE,Data Scientist,186300,US,M
+SE,Data Scientist,123900,US,M
+MI,Research Scientist,340000,US,M
+MI,Research Scientist,150000,US,M
+SE,Machine Learning Engineer,153400,US,M
+SE,Machine Learning Engineer,122700,US,M
+MI,Data Engineer,250000,US,M
+MI,Data Engineer,175000,US,M
+MI,Data Scientist,64385,autre,M
+SE,Data Analyst,185900,US,M
+SE,Data Analyst,121700,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,106800,US,M
+SE,autre,50000,autre,M
+EN,Data Analyst,100000,US,L
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Analyst,125000,US,M
+SE,Data Analyst,110000,US,M
+EN,Data Analyst,150000,US,M
+EN,Data Analyst,100000,US,M
+SE,Data Scientist,149076,US,M
+SE,Data Scientist,82365,US,M
+MI,Data Engineer,146000,US,M
+MI,Data Engineer,75000,US,M
+SE,Machine Learning Engineer,139500,US,M
+SE,Machine Learning Engineer,109400,US,M
+SE,Data Engineer,139500,US,M
+SE,Data Engineer,109400,US,M
+MI,Data Engineer,149600,US,M
+MI,Data Engineer,102000,US,M
+MI,Data Analyst,97218,GB,M
+MI,Data Analyst,48609,GB,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Analyst,85500,US,M
+SE,Data Analyst,185900,US,M
+SE,Data Analyst,121700,US,M
+EN,Research Scientist,150000,US,M
+EN,Research Scientist,100000,US,M
+MI,Data Engineer,145000,US,M
+MI,Data Engineer,125000,US,M
+MI,Data Scientist,150000,US,M
+MI,Data Scientist,97750,US,M
+SE,Data Scientist,201000,US,M
+SE,Data Scientist,122000,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,75000,US,M
+MI,Data Scientist,116990,US,M
+MI,Data Scientist,82920,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+MI,autre,200000,US,S
+MI,autre,125000,US,S
+SE,Data Scientist,201000,US,M
+SE,Data Scientist,122000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,autre,155000,US,M
+SE,autre,140000,US,M
+MI,autre,205920,US,M
+MI,autre,171600,US,M
+SE,Data Engineer,121500,US,M
+SE,Data Engineer,78000,US,M
+MI,Data Engineer,154000,US,M
+MI,Data Engineer,116000,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,136000,US,M
+MI,Data Analyst,78990,GB,M
+MI,Data Analyst,43809,GB,M
+SE,Data Analyst,180000,US,M
+SE,Data Analyst,110000,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183000,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,140000,US,M
+SE,Data Engineer,154000,US,M
+SE,Data Engineer,116000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+MI,Data Engineer,200000,US,M
+MI,Data Engineer,120000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,160000,US,M
+MI,Data Engineer,127599,GB,M
+MI,Data Engineer,103294,GB,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+EN,Data Analyst,85000,US,M
+EN,Data Analyst,75000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Analytics Engineer,150000,US,M
+SE,Analytics Engineer,120000,US,M
+SE,Machine Learning Engineer,163800,US,M
+SE,Machine Learning Engineer,126000,US,M
+SE,Data Analyst,145000,US,M
+SE,Data Analyst,90000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Analyst,85500,US,M
+SE,Data Engineer,167500,US,M
+SE,Data Engineer,106500,US,M
+SE,Data Engineer,163800,US,M
+SE,Data Engineer,126000,US,M
+MI,autre,155000,US,M
+MI,autre,140000,US,M
+SE,Research Scientist,250000,US,M
+SE,Research Scientist,200000,US,M
+SE,Data Scientist,260000,US,M
+SE,Data Scientist,186000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+SE,Research Scientist,200000,US,M
+SE,Research Scientist,150000,US,M
+SE,Data Scientist,48289,ES,M
+SE,Data Scientist,38631,ES,M
+SE,Data Scientist,150000,US,M
+SE,Data Scientist,120000,US,M
+EN,Data Analyst,30000,IN,M
+MI,Research Scientist,185000,US,M
+MI,Research Scientist,125000,US,M
+EN,Data Analyst,34320,US,S
+MI,autre,9289,autre,M
+SE,autre,75116,autre,L
+EX,Data Science Manager,106000,autre,L
+SE,Data Analyst,175000,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,122000,US,M
+SE,Data Analyst,93800,US,M
+SE,Data Science Manager,150000,autre,M
+SE,Data Science Manager,90000,autre,M
+SE,Data Analyst,165000,US,M
+SE,Data Analyst,112000,US,M
+EN,autre,220000,US,M
+SE,autre,71897,DE,M
+EN,autre,64385,DE,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Analyst,15806,IN,S
+MI,Machine Learning Engineer,200000,US,M
+MI,Machine Learning Engineer,175000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Analyst,185900,US,M
+SE,Data Analyst,121700,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,Data Scientist,40000,autre,L
+SE,autre,29453,autre,M
+SE,Data Analyst,180180,US,M
+SE,Data Analyst,106020,US,M
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+SE,Data Analyst,125000,US,M
+SE,Data Analyst,110000,US,M
+SE,Machine Learning Engineer,153400,US,M
+SE,Machine Learning Engineer,122700,US,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Analyst,152380,US,M
+SE,Data Analyst,121904,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+SE,Data Architect,168400,US,M
+SE,Data Architect,105200,US,M
+SE,Machine Learning Engineer,128280,US,M
+SE,Machine Learning Engineer,106900,US,M
+SE,autre,192000,US,L
+MI,Data Engineer,140000,US,M
+MI,Data Engineer,100000,US,M
+SE,autre,107309,DE,S
+SE,autre,85847,DE,S
+SE,Machine Learning Engineer,275000,DE,M
+SE,Machine Learning Engineer,174000,DE,M
+SE,Data Engineer,139500,US,M
+SE,Data Engineer,109400,US,M
+SE,Machine Learning Engineer,139500,US,M
+SE,Machine Learning Engineer,109400,US,M
+SE,Data Analyst,170500,US,M
+SE,Data Analyst,85000,US,M
+SE,autre,72946,GB,M
+SE,autre,54365,GB,M
+EX,autre,160288,GB,M
+EX,autre,127467,GB,M
+SE,Data Engineer,80000,US,M
+SE,Data Engineer,65000,US,M
+SE,Data Engineer,124740,US,M
+SE,Data Engineer,65488,US,M
+SE,autre,72200,US,M
+SE,autre,64980,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+SE,Data Analyst,179975,US,M
+SE,Data Analyst,86466,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,90000,US,M
+MI,autre,51039,GB,M
+MI,autre,42533,GB,M
+SE,Data Scientist,149076,US,M
+SE,Data Scientist,82365,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Data Science Manager,175000,US,M
+SE,Data Science Manager,120000,US,M
+SE,Data Analyst,230000,US,M
+SE,Data Analyst,180000,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,106800,US,M
+SE,autre,140000,US,M
+SE,autre,120000,US,M
+SE,autre,205920,US,M
+SE,autre,171600,US,M
+SE,Data Analyst,165000,US,M
+SE,Data Analyst,125000,US,M
+SE,Data Engineer,265000,US,M
+SE,Data Engineer,185000,US,M
+MI,autre,130000,US,M
+EN,Data Scientist,168000,US,M
+MI,autre,38631,ES,L
+SE,Data Analyst,95000,US,M
+SE,Data Analyst,85500,US,M
+SE,Data Scientist,147100,US,M
+SE,Data Scientist,90700,US,M
+SE,Data Engineer,167580,US,M
+SE,Data Engineer,87980,US,M
+SE,Data Engineer,202000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,163800,US,M
+SE,Data Engineer,126000,US,M
+SE,Machine Learning Engineer,163800,US,M
+SE,Machine Learning Engineer,126000,US,M
+SE,Data Engineer,104000,US,M
+SE,Data Engineer,65000,US,M
+SE,autre,230000,US,M
+SE,autre,148000,US,M
+SE,Machine Learning Engineer,269000,CA,M
+SE,Machine Learning Engineer,158000,CA,M
+SE,Analytics Engineer,197000,US,M
+SE,Analytics Engineer,106000,US,M
+MI,autre,150000,US,M
+MI,autre,100000,US,M
+SE,Data Engineer,290000,US,M
+SE,Data Engineer,210000,US,M
+SE,Data Engineer,192000,US,M
+SE,Data Engineer,172800,US,M
+SE,Data Scientist,300240,US,M
+SE,Data Scientist,200160,US,M
+SE,Data Scientist,300240,US,M
+SE,Data Scientist,200160,US,M
+SE,Analytics Engineer,175000,US,M
+SE,Analytics Engineer,140000,US,M
+SE,autre,169000,US,M
+SE,autre,100000,US,M
+SE,Data Scientist,370000,US,M
+SE,Data Scientist,245000,US,M
+MI,Data Engineer,115447,GB,L
+SE,Data Analyst,110000,US,S
+SE,Data Analyst,80000,US,S
+EN,Data Analyst,55000,US,M
+EN,Data Analyst,48000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Analyst,85000,US,M
+SE,Data Engineer,137500,US,M
+SE,Data Engineer,81500,US,M
+SE,Machine Learning Engineer,323300,US,M
+SE,Machine Learning Engineer,184700,US,M
+MI,autre,30000,autre,S
+SE,Machine Learning Engineer,186000,US,M
+SE,Machine Learning Engineer,153088,US,M
+MI,autre,190000,US,M
+MI,autre,160000,US,M
+SE,Machine Learning Engineer,200000,US,M
+SE,Machine Learning Engineer,150000,US,M
+MI,autre,190000,US,M
+MI,autre,183310,US,M
+SE,Machine Learning Engineer,240000,US,M
+SE,Machine Learning Engineer,180000,US,M
+SE,Machine Learning Engineer,200000,US,M
+SE,Machine Learning Engineer,150000,US,M
+SE,Data Science Manager,299500,US,M
+SE,Data Science Manager,245100,US,M
+SE,Data Engineer,144000,US,M
+SE,Data Engineer,66000,US,M
+MI,Machine Learning Engineer,148500,US,M
+MI,Machine Learning Engineer,126277,US,M
+SE,Data Architect,228000,US,M
+SE,Data Architect,120000,US,M
+SE,autre,180000,US,M
+SE,autre,90000,US,M
+SE,Data Scientist,126500,US,M
+SE,Data Scientist,78000,US,M
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,160000,US,M
+SE,autre,272000,US,M
+SE,autre,170000,US,M
+MI,Data Analyst,80000,US,M
+MI,Data Analyst,60000,US,M
+SE,Data Engineer,259000,US,M
+SE,Data Engineer,146000,US,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Analyst,142000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Scientist,155000,US,M
+SE,Data Scientist,139500,US,M
+MI,Data Engineer,140000,US,M
+MI,Data Engineer,120000,US,M
+SE,Data Engineer,259000,US,M
+SE,Data Engineer,146000,US,M
+MI,Data Analyst,109371,autre,M
+MI,Data Analyst,72914,autre,M
+EN,Data Analyst,17779,IN,L
+EN,Data Scientist,19522,autre,L
+SE,autre,247500,US,M
+SE,autre,172200,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Engineer,139500,US,M
+SE,Data Engineer,109400,US,M
+MI,Data Engineer,125000,US,M
+MI,Data Engineer,90000,US,M
+SE,autre,107309,autre,M
+SE,autre,75116,autre,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Machine Learning Engineer,139500,US,M
+SE,Machine Learning Engineer,109400,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,75000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Machine Learning Engineer,288000,US,M
+SE,Machine Learning Engineer,140000,US,M
+SE,Machine Learning Engineer,288000,US,M
+SE,Machine Learning Engineer,140000,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,90000,US,M
+MI,autre,72914,GB,M
+MI,autre,60761,GB,M
+SE,Data Scientist,215050,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Architect,198000,US,M
+SE,Data Architect,114000,US,M
+EN,Data Analyst,75000,US,M
+EN,Data Analyst,60000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Scientist,209300,US,M
+SE,Data Scientist,182200,US,M
+SE,autre,140000,US,M
+SE,autre,120000,US,M
+EN,Data Scientist,85000,US,M
+MI,Machine Learning Engineer,48609,GB,M
+EN,autre,120000,GB,M
+EN,autre,60000,GB,M
+SE,Machine Learning Engineer,147100,US,M
+SE,Machine Learning Engineer,90700,US,M
+SE,Data Engineer,230000,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Analyst,227000,US,M
+SE,Data Analyst,108000,US,M
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Architect,180000,US,M
+SE,Data Architect,160000,US,M
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,55800,ES,M
+SE,Data Analyst,51508,ES,M
+EN,Data Analyst,60000,US,L
+EN,Data Analyst,50000,US,L
+SE,Data Engineer,226700,US,M
+SE,Data Engineer,133300,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,autre,151902,GB,L
+EN,Data Scientist,9727,IN,L
+SE,Data Analyst,80000,US,M
+SE,Data Analyst,52500,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,162500,US,M
+EN,Data Analyst,85000,US,M
+EN,Data Analyst,75000,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,106800,US,M
+MI,Data Analyst,165000,US,M
+MI,Data Analyst,124000,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Engineer,167580,US,M
+SE,Data Engineer,87980,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Research Scientist,253750,ES,M
+SE,Research Scientist,169200,ES,M
+SE,Research Scientist,253750,ES,M
+SE,Research Scientist,169200,ES,M
+MI,Data Scientist,170000,US,M
+MI,Data Scientist,120000,US,M
+SE,Data Engineer,124740,US,M
+SE,Data Engineer,65488,US,M
+SE,Data Engineer,213580,US,M
+SE,Data Engineer,163625,US,M
+EN,Data Engineer,12000,autre,L
+SE,autre,375000,US,M
+SE,Data Engineer,101943,autre,M
+MI,autre,16414,IN,L
+SE,Machine Learning Engineer,220000,US,M
+SE,Machine Learning Engineer,170000,US,M
+EX,Data Engineer,235000,US,M
+EX,Data Engineer,210000,US,M
+SE,Data Architect,180000,US,M
+SE,Data Architect,115000,US,M
+SE,Data Architect,200000,US,M
+SE,Data Architect,115000,US,M
+SE,Data Science Manager,231250,US,M
+SE,Data Science Manager,138750,US,M
+SE,Machine Learning Engineer,284310,US,M
+SE,Machine Learning Engineer,153090,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,75000,US,M
+MI,Data Analyst,125000,US,M
+MI,Data Analyst,105000,US,M
+MI,Data Analyst,109371,GB,M
+MI,Data Analyst,85066,GB,M
+EN,Data Analyst,55000,US,M
+EN,Data Analyst,48000,US,M
+EN,Data Analyst,100000,US,M
+SE,autre,225900,US,M
+SE,autre,156400,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,162500,US,M
+SE,Machine Learning Engineer,318300,US,M
+SE,Machine Learning Engineer,188800,US,M
+SE,Data Analyst,385000,US,M
+SE,Data Analyst,60000,US,M
+MI,Data Analyst,110000,US,M
+MI,Data Analyst,95000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Scientist,135000,US,M
+SE,Data Analyst,180180,US,M
+SE,Data Analyst,106020,US,M
+SE,Data Analyst,93919,US,M
+SE,Data Analyst,51962,US,M
+SE,Data Engineer,241871,US,M
+SE,Data Engineer,133832,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,90000,US,M
+EX,Data Engineer,210914,US,M
+EX,Data Engineer,116704,US,M
+SE,Data Analyst,192500,US,M
+SE,Data Analyst,140000,US,M
+SE,Data Scientist,149076,US,M
+SE,Data Scientist,82365,US,M
+MI,Machine Learning Engineer,36000,autre,S
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,148750,US,M
+SE,Research Scientist,370000,US,M
+SE,Research Scientist,200000,US,M
+SE,Data Scientist,235000,US,M
+SE,Data Scientist,185000,US,M
+MI,Machine Learning Engineer,121523,GB,M
+MI,Machine Learning Engineer,97218,GB,M
+SE,Data Scientist,216100,US,M
+SE,Data Scientist,140800,US,M
+MI,Machine Learning Engineer,145828,GB,M
+MI,Machine Learning Engineer,121523,GB,M
+SE,autre,53654,CA,L
+EN,Data Scientist,110000,US,S
+SE,Data Engineer,128000,US,M
+SE,Data Engineer,81500,US,M
+MI,Data Engineer,66837,GB,M
+MI,Data Engineer,63192,GB,M
+MI,Data Analyst,60761,GB,M
+MI,Data Analyst,54685,GB,M
+EX,Data Engineer,284000,US,M
+EX,Data Engineer,236000,US,M
+SE,Research Scientist,248100,CA,M
+SE,Research Scientist,145900,CA,M
+SE,autre,155850,US,M
+SE,autre,102544,US,M
+MI,Data Scientist,151410,US,M
+MI,Data Scientist,115360,US,M
+MI,Data Engineer,66531,ES,M
+MI,Data Engineer,59020,ES,M
+SE,autre,125686,CA,M
+SE,autre,100000,autre,L
+EN,Data Scientist,12767,IN,L
+SE,Data Scientist,250000,US,M
+SE,Data Scientist,162500,US,M
+SE,Data Scientist,185000,GB,M
+SE,Data Scientist,120250,GB,M
+EN,Data Engineer,26827,DE,L
+EN,Data Scientist,180000,US,M
+MI,Research Scientist,85000,US,M
+MI,Research Scientist,70000,US,M
+SE,autre,135000,US,M
+SE,autre,100000,US,M
+EX,autre,155000,US,M
+EX,autre,140000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Engineer,226700,US,M
+SE,Data Engineer,133300,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Engineer,163800,US,M
+SE,Data Engineer,126000,US,M
+SE,Machine Learning Engineer,163800,US,M
+SE,Machine Learning Engineer,126000,US,M
+SE,autre,220000,US,M
+SE,autre,150000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,autre,204500,US,M
+SE,autre,138900,US,M
+MI,Data Engineer,162500,US,M
+MI,Data Engineer,130000,US,M
+SE,Data Engineer,150000,US,M
+SE,Data Engineer,107000,US,M
+EX,Data Engineer,175000,US,M
+EX,Data Engineer,110000,US,M
+SE,Data Engineer,226700,US,M
+SE,Data Engineer,133300,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Machine Learning Engineer,150000,US,M
+SE,Machine Learning Engineer,125000,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+MI,Research Scientist,23000,IN,L
+MI,Machine Learning Engineer,110000,US,L
+SE,Data Engineer,265000,US,M
+SE,Data Engineer,182750,US,M
+MI,Data Analyst,130000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Analyst,153600,US,M
+SE,Data Analyst,106800,US,M
+SE,Data Engineer,137500,US,M
+SE,Data Engineer,81500,US,M
+EX,autre,314100,US,M
+EX,autre,195800,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,180000,US,M
+SE,Data Scientist,165000,US,M
+SE,Data Scientist,144000,US,M
+EN,autre,160000,US,M
+EN,autre,100000,US,M
+EX,Data Engineer,200000,US,M
+EX,Data Engineer,145000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,autre,199000,US,M
+SE,autre,112000,US,M
+SE,Data Scientist,105000,US,M
+SE,Data Scientist,70000,US,M
+EN,autre,130000,autre,S
+SE,Data Analyst,180180,US,M
+SE,Data Analyst,106020,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+SE,Data Scientist,183000,US,M
+SE,Data Scientist,134000,US,M
+SE,Machine Learning Engineer,220000,US,M
+SE,Machine Learning Engineer,150000,US,M
+SE,Applied Scientist,350000,US,L
+SE,Applied Scientist,262500,US,L
+SE,Data Analyst,122000,US,M
+SE,Data Analyst,94000,US,M
+SE,Machine Learning Engineer,276000,US,M
+SE,Machine Learning Engineer,184000,US,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+MI,Machine Learning Engineer,180000,US,M
+MI,Machine Learning Engineer,150000,US,M
+SE,Data Scientist,228000,US,M
+SE,Data Scientist,152000,US,M
+SE,Data Scientist,209450,US,M
+SE,Data Scientist,158677,US,M
+SE,Data Analyst,175000,US,M
+SE,Data Analyst,145000,US,M
+SE,Data Engineer,240000,US,M
+SE,Data Engineer,170000,US,M
+MI,Data Analyst,103200,US,M
+MI,Data Analyst,61200,US,M
+MI,Data Scientist,155000,US,L
+EN,autre,66970,autre,L
+SE,Data Scientist,63312,autre,L
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Scientist,240000,US,M
+SE,Data Scientist,139000,US,M
+SE,Data Architect,174500,US,M
+SE,Data Architect,113000,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,87000,US,M
+SE,Data Analyst,160000,US,M
+SE,Data Analyst,108000,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Engineer,107250,US,M
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,119000,US,M
+SE,Data Scientist,285800,US,M
+SE,Data Scientist,154600,US,M
+MI,autre,60795,IN,L
+EN,Data Analyst,30000,US,S
+MI,Data Science Manager,220000,US,M
+MI,Data Science Manager,195000,US,M
+SE,autre,168400,US,M
+SE,autre,105200,US,M
+MI,Data Analyst,206000,US,M
+MI,Data Analyst,160000,US,M
+SE,Analytics Engineer,200000,US,M
+SE,Analytics Engineer,175000,US,M
+SE,Analytics Engineer,231250,US,M
+SE,Analytics Engineer,138750,US,M
+SE,Data Engineer,153000,CA,M
+SE,Data Engineer,94000,CA,M
+SE,Data Engineer,240500,US,L
+SE,Data Engineer,123700,US,L
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,90000,US,M
+EN,Data Scientist,124234,US,M
+EN,Data Scientist,74540,US,M
+MI,Data Analyst,109000,US,M
+MI,Data Analyst,79000,US,M
+SE,Machine Learning Engineer,84053,autre,L
+MI,Machine Learning Engineer,50000,autre,S
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183500,US,M
+SE,Data Scientist,275300,US,M
+SE,Data Scientist,183500,US,M
+SE,Data Analyst,160000,US,M
+SE,Data Analyst,125600,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,225000,US,M
+SE,Data Engineer,140000,US,M
+SE,Data Analyst,141290,US,M
+SE,Data Analyst,74178,US,M
+SE,Data Scientist,150000,US,M
+SE,Data Scientist,120000,US,M
+SE,Data Engineer,85000,US,M
+SE,Data Engineer,75000,US,M
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,205600,US,M
+SE,Data Engineer,107500,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+EN,Data Scientist,12888,IN,S
+MI,Data Engineer,250000,US,M
+MI,Data Engineer,175000,US,M
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+MI,Data Analyst,80000,US,M
+MI,Data Analyst,52500,US,M
+SE,Data Scientist,110000,US,M
+SE,Data Scientist,84000,US,M
+SE,autre,125000,US,M
+SE,autre,110000,US,M
+MI,Data Analyst,90000,US,M
+MI,Data Analyst,80000,US,M
+SE,autre,200000,US,M
+SE,autre,135000,US,M
+EN,autre,48000,US,L
+EN,autre,120000,autre,S
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,75000,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Engineer,226700,US,M
+SE,Data Engineer,133300,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,165000,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,150000,US,M
+MI,Data Engineer,150000,US,M
+MI,Data Engineer,130000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,autre,200000,US,S
+MI,autre,80000,autre,S
+EN,autre,12877,autre,L
+EN,autre,6304,autre,S
+MI,autre,17509,autre,M
+SE,Data Scientist,257000,US,M
+SE,Data Scientist,134000,US,M
+SE,Data Scientist,77262,autre,M
+SE,Data Scientist,38631,autre,M
+SE,Data Engineer,205600,US,L
+SE,Data Engineer,105700,US,L
+SE,autre,140000,US,M
+SE,autre,110000,US,M
+SE,Data Science Manager,299500,US,M
+SE,Data Science Manager,245100,US,M
+SE,Research Scientist,210000,US,M
+SE,Research Scientist,151800,US,M
+MI,Data Scientist,53654,autre,L
+SE,Data Analyst,51508,ES,M
+SE,Data Analyst,40777,ES,M
+SE,Data Analyst,51508,ES,M
+SE,Data Analyst,40777,ES,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Data Scientist,237000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Scientist,130000,US,M
+SE,Data Scientist,90000,US,M
+MI,Data Analyst,120000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Architect,174500,US,M
+SE,Data Architect,113000,US,M
+MI,Data Scientist,183310,US,M
+MI,Data Scientist,183310,US,M
+SE,Data Analyst,145000,US,M
+SE,Data Analyst,102500,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Architect,174500,US,M
+SE,Data Architect,113000,US,M
+SE,autre,122000,US,M
+SE,autre,94000,US,M
+SE,Data Scientist,220000,US,M
+SE,Data Scientist,146000,US,M
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,130000,US,M
+MI,Data Scientist,24740,autre,L
+MI,autre,15897,IN,M
+SE,autre,145000,US,M
+SE,autre,128000,US,M
+SE,Data Scientist,182000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Engineer,122000,US,M
+SE,Data Engineer,94000,US,M
+SE,Machine Learning Engineer,77262,autre,M
+SE,Machine Learning Engineer,38631,autre,M
+EX,Data Scientist,300000,US,M
+EX,Data Scientist,200000,US,M
+MI,Data Analyst,135000,US,M
+MI,Data Analyst,105500,US,M
+SE,Data Engineer,252000,US,M
+SE,Data Engineer,129000,US,M
+MI,Data Scientist,110000,US,L
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+SE,Data Scientist,168000,US,M
+SE,Data Scientist,130000,US,M
+MI,Data Analyst,78990,GB,M
+MI,Data Analyst,43809,GB,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Scientist,153400,US,M
+SE,Data Scientist,122700,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Scientist,160000,US,M
+SE,Data Scientist,205000,US,M
+SE,Data Scientist,185000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,Machine Learning Engineer,145000,US,M
+MI,Machine Learning Engineer,87000,US,M
+EN,Data Scientist,50000,US,M
+SE,autre,234100,US,M
+SE,autre,203500,US,M
+SE,Data Scientist,223800,US,M
+SE,Data Scientist,172100,US,M
+SE,Data Scientist,180000,US,M
+SE,Data Scientist,150000,US,M
+SE,Data Engineer,232200,US,M
+SE,Data Engineer,167200,US,M
+SE,autre,197000,US,M
+SE,autre,106000,US,M
+SE,Research Scientist,180000,US,M
+SE,Research Scientist,145000,US,M
+SE,autre,225000,US,M
+SE,autre,200000,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,114000,US,M
+SE,Data Engineer,291500,US,M
+SE,Data Engineer,180000,US,M
+EX,Data Engineer,196200,US,M
+EX,Data Engineer,150900,US,M
+SE,Data Scientist,168400,US,M
+SE,Data Scientist,105200,US,M
+MI,Data Engineer,95000,ES,M
+MI,Data Engineer,80000,ES,M
+MI,Data Analyst,116000,US,M
+MI,Data Analyst,72000,US,M
+SE,Analytics Engineer,207000,US,M
+SE,Analytics Engineer,167000,US,M
+SE,Machine Learning Engineer,145000,US,M
+SE,Machine Learning Engineer,135000,US,M
+MI,Data Engineer,105000,US,M
+MI,Data Engineer,70000,US,M
+SE,Data Architect,180000,US,M
+SE,Data Architect,115000,US,M
+SE,Data Engineer,133800,US,M
+SE,Data Engineer,96100,US,M
+MI,Data Analyst,120000,US,M
+MI,Data Analyst,80000,US,M
+SE,autre,140000,US,M
+SE,autre,100000,US,M
+SE,Research Scientist,150000,US,M
+SE,Research Scientist,120000,US,M
+SE,autre,140000,US,M
+SE,autre,115000,US,M
+SE,Data Science Manager,297300,US,M
+SE,Data Science Manager,198200,US,M
+SE,Data Scientist,297300,US,M
+SE,Data Scientist,198200,US,M
+SE,Data Engineer,202000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Scientist,110000,US,M
+SE,Data Scientist,84000,US,M
+MI,Machine Learning Engineer,219000,US,L
+SE,Applied Scientist,230000,US,M
+SE,Applied Scientist,196000,US,M
+SE,autre,140000,US,M
+SE,autre,110000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,110000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Applied Scientist,126100,US,L
+SE,Applied Scientist,72000,US,L
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,150000,US,M
+MI,Machine Learning Engineer,175000,US,M
+MI,Machine Learning Engineer,140000,US,M
+SE,Data Analyst,240500,US,M
+SE,Data Analyst,137500,US,M
+MI,Data Scientist,187500,US,M
+MI,Data Scientist,165000,US,M
+MI,autre,72914,GB,L
+EN,Data Analyst,25216,US,L
+SE,Research Scientist,210000,US,M
+SE,Research Scientist,165750,US,M
+SE,autre,225000,US,M
+SE,autre,165750,US,M
+MI,Machine Learning Engineer,109006,GB,M
+MI,Machine Learning Engineer,67141,GB,M
+SE,Data Scientist,135000,US,M
+SE,Data Scientist,115000,US,M
+SE,autre,275000,US,M
+SE,autre,175000,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Engineer,175308,US,M
+SE,Data Engineer,100706,US,M
+SE,autre,235000,US,M
+SE,autre,135000,US,M
+SE,Data Engineer,310000,US,M
+SE,Data Engineer,229000,US,M
+SE,autre,289076,US,M
+SE,autre,202353,US,M
+SE,Data Engineer,69751,autre,M
+SE,Data Engineer,37558,autre,M
+MI,autre,120000,US,M
+MI,autre,100000,US,M
+SE,Data Engineer,226700,US,M
+SE,Data Engineer,133300,US,M
+SE,Data Analyst,125000,US,M
+SE,Data Analyst,85000,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,80000,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,100000,US,M
+SE,Data Scientist,54094,IN,L
+MI,autre,18314,IN,L
+SE,Data Engineer,231250,US,M
+SE,Data Engineer,138750,US,M
+SE,Data Engineer,199000,US,M
+SE,Data Engineer,162000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+EN,Data Scientist,100000,US,M
+SE,Research Scientist,200000,US,M
+SE,Research Scientist,150000,US,M
+EN,autre,160000,US,M
+EN,autre,120000,US,M
+SE,Research Scientist,250000,US,M
+SE,Research Scientist,200000,US,M
+EN,autre,150000,US,M
+EN,autre,120000,US,M
+SE,autre,150000,US,M
+SE,autre,100000,US,M
+SE,autre,133000,autre,L
+SE,Data Scientist,272550,US,M
+SE,Data Scientist,198200,US,M
+SE,Data Scientist,182000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,Data Scientist,120000,US,M
+MI,Data Scientist,105000,US,M
+SE,Data Engineer,187500,US,M
+SE,Data Engineer,175000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Analyst,155000,US,M
+SE,Data Analyst,64000,US,M
+SE,autre,235000,US,M
+SE,autre,185000,US,M
+SE,Data Architect,174500,US,M
+SE,Data Architect,113000,US,M
+SE,Data Scientist,143100,CA,M
+SE,Data Scientist,113000,CA,M
+SE,Applied Scientist,184000,US,M
+SE,Applied Scientist,142000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,120000,US,M
+SE,Data Architect,174500,US,M
+SE,Data Architect,113000,US,M
+SE,Data Scientist,180560,US,M
+SE,Data Scientist,115440,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,120000,US,M
+SE,Research Scientist,248100,US,M
+SE,Research Scientist,145900,US,M
+SE,Data Scientist,120000,CA,M
+SE,Data Scientist,110000,CA,M
+SE,Data Engineer,291500,US,M
+SE,Data Engineer,180000,US,M
+MI,Machine Learning Engineer,75344,GB,M
+MI,Machine Learning Engineer,63192,GB,M
+SE,Data Engineer,161800,US,M
+SE,Data Engineer,141600,US,M
+MI,Machine Learning Engineer,58331,GB,M
+MI,Machine Learning Engineer,46178,GB,M
+SE,Data Engineer,166000,US,M
+SE,Data Engineer,128000,US,M
+SE,Data Architect,170000,US,M
+SE,Data Architect,110000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,75000,US,M
+SE,Data Engineer,236000,US,M
+SE,Data Engineer,182000,US,M
+MI,Data Analyst,14307,IN,L
+EN,Data Scientist,130000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Machine Learning Engineer,261500,US,L
+SE,Machine Learning Engineer,134500,US,L
+MI,Data Scientist,13989,IN,L
+MI,Data Scientist,130000,US,M
+MI,Data Scientist,90000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+SE,autre,125000,US,L
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,155000,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+SE,Data Scientist,150000,US,M
+SE,Data Scientist,140000,US,M
+SE,autre,122000,US,M
+SE,autre,94500,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,130000,US,M
+SE,autre,145000,US,M
+SE,autre,128000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+SE,autre,150000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+MI,Data Scientist,150000,US,M
+MI,Data Scientist,127500,US,M
+SE,Data Scientist,126500,US,M
+SE,Data Scientist,51000,US,M
+MI,Data Engineer,260000,US,M
+MI,Data Engineer,175000,US,M
+EN,autre,40000,autre,M
+EN,autre,40000,autre,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Machine Learning Engineer,210000,US,M
+SE,Machine Learning Engineer,160000,US,M
+SE,Data Scientist,272550,US,M
+SE,Data Scientist,198200,US,M
+MI,Data Scientist,94560,autre,M
+MI,Data Scientist,52533,autre,M
+SE,Data Scientist,220000,US,M
+SE,Data Scientist,146000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,autre,248400,CA,M
+SE,autre,183600,CA,M
+MI,Data Engineer,150000,US,M
+MI,Data Engineer,150000,US,M
+EN,autre,40000,autre,M
+SE,autre,56723,IN,L
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+EN,autre,24165,autre,M
+SE,Data Engineer,216000,US,M
+SE,Data Engineer,144000,US,M
+EN,Data Engineer,85000,US,M
+EN,Data Engineer,65000,US,M
+SE,Data Analyst,149000,US,M
+SE,Data Analyst,119000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,120000,US,M
+MI,Data Scientist,150000,US,M
+MI,Data Scientist,110000,US,M
+SE,Machine Learning Engineer,246000,US,M
+SE,Machine Learning Engineer,201000,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,155000,US,M
+SE,autre,235000,US,M
+SE,autre,185000,US,M
+SE,autre,190000,US,M
+SE,autre,160000,US,M
+EN,autre,100000,US,M
+MI,Data Engineer,130000,US,M
+MI,Data Engineer,115000,US,M
+MI,Data Scientist,92350,GB,M
+MI,Data Scientist,67723,GB,M
+MI,Data Engineer,105000,US,M
+MI,Data Engineer,70000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Machine Learning Engineer,192000,US,M
+SE,Machine Learning Engineer,164000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,75000,US,M
+SE,Data Science Manager,175000,US,M
+SE,Data Science Manager,120000,US,M
+SE,Data Engineer,167500,US,M
+SE,Data Engineer,106500,US,M
+MI,Data Analyst,75000,US,M
+MI,Data Analyst,60000,US,M
+SE,Applied Scientist,184000,US,M
+SE,Applied Scientist,142000,US,M
+MI,Data Scientist,145000,US,M
+MI,Data Scientist,100000,US,M
+EN,autre,10000,autre,S
+MI,Data Scientist,31795,US,M
+MI,autre,44365,autre,S
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,120000,US,M
+EX,Data Engineer,200000,US,M
+EX,Data Engineer,145000,US,M
+MI,Data Engineer,92350,GB,M
+MI,Data Engineer,73880,GB,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,100000,US,M
+SE,Applied Scientist,192000,US,M
+SE,Applied Scientist,164000,US,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,95000,US,M
+SE,Machine Learning Engineer,145000,US,M
+SE,Machine Learning Engineer,135000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,78000,US,M
+SE,Data Engineer,73546,ES,M
+SE,Data Engineer,36773,ES,M
+MI,Data Engineer,160000,US,M
+MI,Data Engineer,120000,US,M
+SE,Data Scientist,190000,US,M
+SE,Data Scientist,150000,US,M
+MI,Data Engineer,35610,IN,L
+SE,autre,125000,autre,L
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,95000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,95000,US,M
+SE,autre,249500,US,M
+SE,autre,149850,US,M
+MI,Analytics Engineer,122500,US,M
+MI,Analytics Engineer,100000,US,M
+SE,Data Scientist,249500,US,M
+SE,Data Scientist,149850,US,M
+EN,Data Analyst,55000,US,M
+EN,Data Analyst,48000,US,M
+SE,Research Scientist,249500,US,M
+SE,Research Scientist,149850,US,M
+MI,autre,58837,autre,S
+SE,Data Engineer,190000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Analyst,127000,US,M
+SE,Data Analyst,104000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,150000,US,M
+SE,Machine Learning Engineer,210000,US,M
+SE,Machine Learning Engineer,150000,US,M
+SE,Data Engineer,210000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Scientist,182750,US,M
+SE,Data Scientist,161500,US,M
+MI,Data Analyst,102640,US,M
+MI,Data Analyst,66100,US,M
+SE,Research Scientist,210000,US,M
+SE,Research Scientist,150000,US,M
+SE,Data Engineer,198800,US,M
+SE,Data Engineer,122600,US,M
+MI,Data Engineer,130000,US,M
+MI,Data Engineer,80000,US,M
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+SE,Data Analyst,150000,US,M
+SE,Data Analyst,100000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+SE,Data Engineer,216000,US,M
+SE,Data Engineer,144000,US,M
+EX,Data Scientist,159000,US,M
+EX,Data Scientist,130000,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Engineer,215000,US,M
+SE,Data Engineer,150000,US,M
+SE,Machine Learning Engineer,246000,US,M
+SE,Machine Learning Engineer,201000,US,M
+MI,Data Engineer,187000,US,M
+MI,Data Engineer,153000,US,M
+SE,Machine Learning Engineer,255000,autre,M
+SE,Machine Learning Engineer,185000,autre,M
+MI,Data Analyst,430967,GB,M
+MI,Data Analyst,55410,GB,M
+SE,Data Analyst,50432,ES,M
+SE,Data Analyst,39925,ES,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+EN,autre,60938,DE,L
+SE,autre,140000,US,M
+SE,autre,120000,US,M
+MI,Data Analyst,75000,US,M
+MI,Data Analyst,60000,US,M
+SE,autre,10000,autre,S
+EN,Data Analyst,50000,US,L
+MI,autre,134000,US,M
+MI,autre,124000,US,M
+SE,Data Analyst,166700,US,M
+SE,Data Analyst,119000,US,M
+EN,Data Scientist,124234,US,M
+EN,Data Scientist,74540,US,M
+MI,Data Analyst,100000,US,M
+MI,Data Analyst,65000,US,M
+MI,Data Analyst,16904,IN,L
+EN,autre,200000,CA,L
+EN,Machine Learning Engineer,12000,autre,L
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,146000,US,M
+SE,Data Engineer,68293,ES,M
+SE,Data Engineer,36773,ES,M
+SE,autre,110000,US,M
+SE,autre,70000,US,M
+EN,Data Analyst,50000,US,L
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,95000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+SE,Data Architect,190000,US,M
+SE,Data Architect,135000,US,M
+SE,Data Scientist,128000,US,M
+SE,Data Scientist,81500,US,M
+SE,Data Scientist,173000,US,M
+SE,Data Scientist,110000,US,M
+SE,Machine Learning Engineer,192000,US,M
+SE,Machine Learning Engineer,120000,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,95000,US,M
+SE,autre,190000,US,L
+SE,Data Engineer,194000,US,M
+SE,Data Engineer,129400,US,M
+SE,Data Analyst,201000,US,M
+SE,Data Analyst,89200,US,M
+SE,Data Scientist,165000,US,M
+SE,Data Scientist,125000,US,M
+SE,Applied Scientist,230000,US,M
+SE,Applied Scientist,196000,US,M
+MI,Machine Learning Engineer,130000,US,M
+MI,Machine Learning Engineer,90000,US,M
+MI,autre,150000,US,M
+MI,autre,100000,US,M
+MI,Machine Learning Engineer,230000,US,M
+MI,Machine Learning Engineer,150000,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+MI,autre,130000,US,M
+MI,autre,100000,US,M
+SE,Data Engineer,216000,US,M
+SE,Data Engineer,144000,US,M
+MI,Data Scientist,180000,US,M
+MI,Data Scientist,120000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+SE,Data Analyst,192500,US,M
+SE,Data Analyst,140000,US,M
+SE,Data Engineer,152500,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,65000,US,M
+SE,Data Analyst,55000,US,M
+SE,Data Engineer,178750,US,M
+SE,Data Engineer,160000,US,M
+MI,Data Scientist,63040,autre,M
+MI,Data Scientist,52533,autre,M
+MI,autre,165000,US,M
+MI,autre,135000,US,M
+SE,Analytics Engineer,170000,US,M
+SE,Analytics Engineer,125000,US,M
+SE,Data Engineer,105000,US,M
+SE,Data Engineer,70000,US,M
+SE,Data Scientist,130000,US,M
+SE,Data Scientist,95000,US,M
+SE,Data Scientist,203500,US,M
+SE,Data Scientist,152000,US,M
+SE,Data Engineer,197430,US,M
+SE,Data Engineer,134760,US,M
+MI,Data Scientist,120000,US,M
+SE,Data Engineer,197000,US,M
+SE,Data Engineer,99000,US,M
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,162000,US,M
+MI,Data Engineer,110446,autre,M
+MI,Data Engineer,79178,autre,M
+MI,autre,70186,GB,M
+MI,autre,51716,GB,M
+SE,Data Architect,149040,US,M
+SE,Data Architect,113900,US,M
+MI,autre,95000,US,M
+SE,Data Analyst,115000,US,S
+SE,Data Analyst,171000,autre,L
+EN,autre,13000,autre,S
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,78000,US,M
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,95000,US,M
+SE,autre,110000,US,M
+SE,autre,70000,US,M
+EN,autre,50000,US,S
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Engineer,230000,US,M
+SE,Data Engineer,154600,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,Data Engineer,160000,US,M
+MI,Data Engineer,75000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+SE,Data Engineer,213000,US,M
+SE,Data Engineer,152000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,120000,US,M
+SE,Data Scientist,110000,US,M
+SE,Data Scientist,70000,US,M
+SE,autre,227200,CA,M
+SE,autre,168000,CA,M
+EN,autre,20000,autre,M
+MI,Data Scientist,64090,DE,M
+MI,Data Scientist,60938,DE,M
+SE,autre,243000,US,M
+SE,autre,183000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,150000,US,M
+MI,Data Scientist,130000,US,M
+MI,Data Scientist,90000,US,M
+MI,Data Analyst,165000,US,M
+MI,Data Analyst,124000,US,M
+SE,Data Engineer,178000,CA,M
+SE,Data Engineer,132000,CA,M
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Data Analyst,116000,US,M
+SE,Data Analyst,96000,US,M
+SE,Data Analyst,92350,GB,M
+SE,Data Analyst,70186,GB,M
+SE,Data Analyst,105000,US,M
+SE,Data Analyst,70000,US,M
+MI,autre,105236,CA,L
+SE,Data Engineer,194000,US,M
+SE,Data Engineer,129400,US,M
+SE,Data Architect,190000,US,M
+SE,Data Architect,135000,US,M
+SE,Data Analyst,100000,US,M
+SE,Data Analyst,70000,US,M
+EN,Machine Learning Engineer,189750,US,M
+EN,Machine Learning Engineer,140250,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,100000,US,M
+MI,Data Analyst,160000,US,M
+MI,Data Analyst,109000,US,M
+SE,autre,250000,US,M
+SE,autre,150000,US,M
+MI,Data Analyst,206000,US,M
+MI,Data Analyst,160000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,120000,US,M
+SE,Machine Learning Engineer,115573,autre,M
+SE,Machine Learning Engineer,73546,autre,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Engineer,68293,ES,M
+SE,Data Engineer,42026,ES,M
+SE,Data Engineer,191200,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,191200,US,M
+SE,Data Engineer,130000,US,M
+EN,autre,66192,DE,L
+EN,autre,50000,autre,S
+SE,Data Engineer,230000,US,L
+SE,Data Engineer,154600,US,L
+SE,Data Engineer,120000,US,M
+SE,Data Engineer,95000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,120000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+MI,Data Analyst,80000,US,L
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Analytics Engineer,135000,US,M
+SE,Analytics Engineer,110000,US,M
+MI,autre,155000,US,M
+MI,autre,140000,US,M
+SE,Data Engineer,205000,US,M
+SE,Data Engineer,150000,US,M
+SE,Data Engineer,179500,US,M
+SE,Data Engineer,134000,US,M
+MI,Data Scientist,180000,US,M
+MI,Data Scientist,120000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,145000,US,M
+SE,Data Architect,235000,US,M
+SE,Data Architect,175000,US,M
+EN,autre,27317,ES,L
+MI,Data Engineer,160000,US,M
+MI,Data Engineer,90000,US,M
+SE,Data Engineer,68293,ES,M
+SE,Data Engineer,36773,ES,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+MI,autre,165000,US,M
+MI,autre,135000,US,M
+SE,Data Engineer,168400,US,M
+SE,Data Engineer,105200,US,M
+MI,autre,86193,GB,M
+MI,autre,49253,GB,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+SE,Data Scientist,198800,US,M
+SE,Data Scientist,122600,US,M
+EN,Machine Learning Engineer,100000,autre,M
+MI,autre,105066,autre,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,100000,US,M
+MI,Analytics Engineer,104663,GB,M
+MI,Analytics Engineer,73880,GB,M
+SE,Data Engineer,125000,US,M
+SE,Data Engineer,110000,US,M
+MI,Data Analyst,165000,US,M
+MI,Data Analyst,124000,US,M
+SE,Data Scientist,148000,US,M
+SE,Data Scientist,107000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Engineer,153600,US,M
+SE,Data Engineer,106800,US,M
+MI,Data Analyst,100000,CA,M
+MI,Data Analyst,65000,CA,M
+MI,Data Engineer,120000,US,M
+MI,Data Engineer,95000,US,M
+SE,Data Engineer,63040,autre,M
+SE,Data Engineer,36773,autre,M
+EX,Data Engineer,310000,US,M
+EX,Data Engineer,239000,US,M
+SE,Data Science Manager,299500,US,M
+SE,Data Science Manager,245100,US,M
+SE,Data Scientist,168000,US,M
+SE,Data Scientist,130000,US,M
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+MI,Data Engineer,161000,US,M
+MI,Data Engineer,118000,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,184000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Science Manager,247500,US,M
+SE,Data Science Manager,172200,US,M
+SE,autre,68293,autre,L
+SE,Data Analyst,177000,US,M
+SE,Data Analyst,131000,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,184000,US,M
+SE,Data Engineer,146000,US,M
+SE,Data Engineer,102000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Applied Scientist,230000,US,M
+SE,Applied Scientist,196000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,100000,US,M
+MI,Data Engineer,80000,US,M
+MI,Data Engineer,65000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,61566,GB,M
+SE,Data Engineer,43096,GB,M
+MI,Data Engineer,175000,US,M
+MI,Data Engineer,135000,US,M
+EN,Data Scientist,80000,US,M
+SE,Data Engineer,231250,US,M
+SE,Data Engineer,138750,US,M
+SE,Analytics Engineer,193750,US,M
+SE,Analytics Engineer,116250,US,M
+SE,Data Engineer,231250,US,M
+SE,Data Engineer,138750,US,M
+SE,Analytics Engineer,231250,US,M
+SE,Analytics Engineer,138750,US,M
+SE,Analytics Engineer,231250,US,M
+SE,Analytics Engineer,138750,US,M
+SE,Data Engineer,193750,US,M
+SE,Data Engineer,116250,US,M
+SE,Data Scientist,208000,US,M
+SE,Data Scientist,127000,US,M
+SE,Research Scientist,300000,US,M
+SE,Research Scientist,196000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,autre,45555,autre,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+SE,Data Scientist,205000,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Machine Learning Engineer,247500,US,M
+SE,Machine Learning Engineer,172200,US,M
+EN,Data Engineer,160000,US,M
+EN,Data Engineer,135000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Analyst,110000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Applied Scientist,205000,US,M
+SE,Applied Scientist,184000,US,M
+EN,Data Scientist,17684,autre,M
+SE,autre,375000,US,L
+SE,Data Engineer,191200,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,Machine Learning Engineer,104663,GB,M
+MI,Machine Learning Engineer,80036,GB,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Scientist,140700,US,M
+SE,Data Scientist,93800,US,M
+SE,Data Scientist,350000,US,M
+SE,Data Scientist,135000,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+EN,autre,12000,US,L
+MI,Machine Learning Engineer,104697,autre,L
+EN,autre,33000,DE,S
+EN,autre,34672,DE,S
+SE,Machine Learning Engineer,201000,US,M
+SE,Machine Learning Engineer,119000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,150000,US,M
+SE,Data Analyst,154560,US,M
+SE,Data Analyst,123648,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,100000,US,M
+MI,Data Engineer,170000,US,M
+MI,Data Engineer,145000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Scientist,247500,US,M
+SE,Data Scientist,172200,US,M
+SE,Data Scientist,177500,US,M
+SE,Data Scientist,134000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Architect,192564,US,M
+SE,Data Architect,144854,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,105000,US,M
+SE,Data Engineer,179305,US,M
+SE,Data Engineer,142127,US,M
+SE,Data Engineer,315000,US,M
+SE,Data Engineer,225000,US,M
+SE,Data Scientist,243900,US,M
+SE,Data Scientist,156600,US,M
+MI,Data Analyst,206000,US,M
+MI,Data Analyst,160000,US,M
+MI,Data Analyst,109000,US,M
+MI,Data Analyst,79000,US,M
+MI,Data Analyst,160000,US,M
+MI,Data Analyst,109000,US,M
+MI,autre,89306,autre,L
+SE,Data Engineer,182500,US,M
+SE,Data Engineer,128500,US,M
+MI,Data Engineer,160000,US,M
+MI,Data Engineer,90000,US,M
+EN,autre,77300,US,M
+EN,autre,45600,US,M
+SE,Data Analyst,127000,US,M
+SE,Data Analyst,110000,US,M
+SE,Data Architect,210000,US,M
+SE,Data Architect,136000,US,M
+SE,autre,12608,autre,S
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,140000,US,M
+SE,Data Engineer,247500,US,M
+SE,Data Engineer,172200,US,M
+SE,Data Engineer,225000,US,M
+SE,Data Engineer,184100,US,M
+MI,Machine Learning Engineer,130000,US,M
+MI,Machine Learning Engineer,90000,US,M
+MI,Data Scientist,120000,US,M
+MI,Data Scientist,100000,US,M
+MI,Data Scientist,85000,US,M
+MI,Data Scientist,78000,US,M
+SE,Data Engineer,161000,US,M
+SE,Data Engineer,110000,US,M
+SE,Data Scientist,136000,US,M
+SE,Data Scientist,104000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+EX,autre,205000,US,M
+EX,autre,160000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+EN,Data Engineer,61566,GB,M
+EN,Data Engineer,49253,GB,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Scientist,245000,US,M
+SE,Data Scientist,180000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,220000,US,M
+SE,Data Engineer,150000,US,M
+SE,Data Scientist,198440,US,L
+SE,Data Scientist,144000,US,L
+SE,Data Engineer,240000,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Scientist,198440,US,M
+SE,Data Scientist,144000,US,M
+MI,Data Analyst,150000,US,M
+MI,Data Analyst,100000,US,M
+SE,Data Analyst,120000,US,M
+SE,Data Analyst,95000,US,M
+MI,Data Scientist,57872,GB,M
+EN,Data Analyst,64000,US,L
+EN,Data Scientist,39925,autre,L
+SE,Machine Learning Engineer,187200,CA,M
+SE,Machine Learning Engineer,116100,CA,M
+SE,Data Analyst,150000,US,M
+SE,Data Analyst,127000,US,M
+SE,Data Engineer,275000,US,M
+SE,Data Engineer,166000,US,M
+SE,Data Scientist,159699,US,M
+SE,Data Scientist,138938,US,M
+EN,autre,76000,US,L
+SE,Data Analyst,166700,US,M
+SE,Data Analyst,119000,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Analyst,100000,US,M
+SE,Analytics Engineer,103432,GB,M
+SE,Analytics Engineer,92350,GB,M
+SE,Data Analyst,80000,US,M
+SE,Data Analyst,52500,US,M
+SE,Data Engineer,236000,US,M
+SE,Data Engineer,182000,US,M
+SE,Data Scientist,180000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Analyst,100000,US,M
+SE,Machine Learning Engineer,204500,US,M
+SE,Machine Learning Engineer,142200,US,M
+MI,autre,240000,US,M
+EN,Data Analyst,125404,US,S
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,195000,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,155000,US,M
+SE,Data Engineer,110000,US,M
+SE,autre,123000,US,M
+SE,autre,92250,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,150000,US,M
+MI,autre,180000,US,M
+MI,autre,100000,US,M
+SE,Data Engineer,97000,US,M
+SE,Data Engineer,90000,US,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+SE,Machine Learning Engineer,210000,US,M
+SE,Machine Learning Engineer,180000,US,M
+SE,Data Engineer,260000,US,M
+SE,Data Engineer,180000,US,M
+EX,Analytics Engineer,210000,US,M
+EX,Analytics Engineer,157000,US,M
+EN,Data Scientist,180000,US,M
+EN,Data Scientist,100000,US,M
+MI,Data Analyst,80000,US,M
+MI,Data Analyst,52500,US,M
+SE,Data Architect,128000,US,M
+SE,Data Architect,81500,US,M
+SE,autre,105000,US,M
+SE,autre,70000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,122500,US,M
+SE,Data Engineer,171000,US,M
+SE,Data Engineer,117000,US,M
+SE,Data Scientist,202800,US,L
+SE,Data Scientist,104300,US,L
+SE,Data Analyst,50432,ES,M
+SE,Data Analyst,36773,ES,M
+SE,Data Engineer,197000,US,M
+SE,Data Engineer,99000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,110000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+MI,Data Scientist,30000,autre,L
+MI,Analytics Engineer,78000,autre,M
+MI,Analytics Engineer,48000,autre,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,150000,US,M
+SE,Data Analyst,95000,US,M
+MI,Data Engineer,78000,autre,M
+MI,Data Engineer,42000,autre,M
+SE,Data Architect,345600,US,M
+SE,Data Architect,230400,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+MI,autre,78000,autre,M
+MI,autre,48000,autre,M
+SE,Data Analyst,175950,US,M
+SE,Data Analyst,130050,US,M
+SE,Data Engineer,205600,US,L
+SE,Data Engineer,105700,US,L
+SE,Data Analyst,236600,US,M
+SE,Data Analyst,89200,US,M
+MI,Data Scientist,84000,autre,M
+MI,Data Scientist,54000,autre,M
+EN,Data Scientist,80000,US,L
+SE,autre,200000,GB,S
+EN,Data Scientist,73742,CA,L
+SE,autre,165000,US,S
+EN,Data Scientist,33246,GB,L
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+EN,autre,5409,IN,L
+MI,Data Engineer,75050,autre,L
+SE,Data Engineer,225000,US,M
+SE,Data Engineer,184100,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+EN,Machine Learning Engineer,108000,US,S
+SE,autre,8000,autre,L
+SE,Data Scientist,155000,US,M
+SE,Data Scientist,38000,US,M
+MI,Data Analyst,85000,US,M
+MI,Data Analyst,65000,US,M
+SE,Data Scientist,155000,US,M
+SE,Data Scientist,38000,US,M
+MI,Data Engineer,110820,GB,M
+MI,Data Engineer,92350,GB,M
+SE,Data Scientist,153600,US,M
+SE,Data Scientist,106800,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Scientist,50000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Scientist,155000,US,M
+SE,Data Scientist,38000,US,M
+SE,Data Scientist,168000,US,M
+SE,Data Scientist,130000,US,M
+SE,Data Scientist,123400,US,M
+SE,Data Scientist,88100,US,M
+SE,Data Scientist,120000,US,S
+SE,Data Scientist,55000,US,S
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Engineer,191200,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,169000,US,M
+SE,Data Analyst,110600,US,M
+SE,Analytics Engineer,150000,US,M
+SE,Analytics Engineer,120000,US,M
+SE,autre,139000,US,M
+SE,autre,122000,US,M
+SE,Data Scientist,185900,US,M
+SE,Data Scientist,129300,US,M
+SE,Data Analyst,139600,US,M
+SE,Data Analyst,85700,US,M
+SE,Data Engineer,185000,US,M
+SE,Data Engineer,50000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+SE,Data Scientist,225000,US,M
+SE,Data Scientist,156400,US,M
+SE,Data Scientist,200000,US,M
+SE,Data Scientist,175000,US,M
+SE,Data Engineer,185900,US,M
+SE,Data Engineer,129300,US,M
+MI,autre,148500,US,L
+MI,autre,98200,US,L
+SE,Data Analyst,115000,US,M
+SE,Data Analyst,95000,US,M
+SE,Data Architect,225000,US,M
+SE,Data Architect,66000,US,M
+SE,Data Scientist,185000,US,M
+SE,Data Scientist,50000,US,M
+SE,Data Scientist,47280,ES,M
+SE,Data Scientist,37824,ES,M
+MI,autre,134000,US,M
+MI,autre,98000,US,M
+MI,Data Analyst,105000,US,M
+MI,Data Analyst,62000,US,M
+EN,autre,57000,US,L
+SE,autre,161311,CA,M
+MI,Data Scientist,144200,US,M
+MI,Data Scientist,115360,US,M
+MI,Data Scientist,83171,autre,L
+SE,autre,38154,IN,L
+SE,Data Engineer,73546,autre,M
+SE,Data Engineer,42026,autre,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,150000,US,M
+SE,Data Architect,180000,US,M
+SE,Data Architect,160000,US,M
+MI,Data Scientist,108000,US,L
+SE,autre,200000,US,M
+SE,autre,150000,US,M
+EX,autre,125976,CA,L
+SE,Data Engineer,188700,US,M
+SE,Data Engineer,160395,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,225000,US,M
+SE,Data Scientist,198440,US,M
+SE,Data Scientist,144000,US,M
+SE,Applied Scientist,191475,US,M
+SE,Applied Scientist,141525,US,M
+SE,Data Analyst,50432,ES,M
+SE,Data Analyst,36773,ES,M
+MI,Data Scientist,75648,DE,S
+SE,autre,156868,US,L
+SE,autre,200000,autre,S
+SE,Data Scientist,198440,US,L
+SE,Data Scientist,144000,US,L
+SE,autre,69344,autre,L
+MI,autre,5132,autre,M
+SE,Data Analyst,90000,US,M
+MI,Research Scientist,126080,DE,S
+MI,Research Scientist,84053,DE,S
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,180000,US,M
+MI,Analytics Engineer,108000,US,M
+MI,Analytics Engineer,85000,US,M
+SE,Machine Learning Engineer,210000,US,M
+SE,Machine Learning Engineer,180000,US,M
+SE,Data Engineer,165000,US,M
+SE,Data Engineer,132000,US,M
+SE,Analytics Engineer,130000,US,M
+SE,Analytics Engineer,110000,US,M
+MI,autre,45050,autre,L
+EN,Data Analyst,42028,autre,L
+MI,autre,135000,US,L
+SE,Data Engineer,178800,US,L
+SE,Data Engineer,132100,US,L
+EN,Data Analyst,20000,US,M
+SE,Machine Learning Engineer,140000,CA,M
+SE,Machine Learning Engineer,110000,CA,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,85000,US,M
+SE,autre,250000,US,M
+SE,autre,63000,US,M
+EX,Data Engineer,187200,US,M
+EX,Data Engineer,116100,US,M
+MI,Data Scientist,10000,autre,M
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,229998,US,L
+SE,Data Engineer,154545,US,L
+SE,Data Scientist,215000,US,L
+SE,Data Scientist,159000,US,L
+SE,Data Engineer,229998,US,L
+SE,Data Engineer,154545,US,L
+EN,autre,50000,US,M
+SE,autre,183000,US,L
+SE,Data Analyst,99750,US,M
+SE,Data Analyst,68400,US,M
+SE,Data Scientist,236900,US,L
+SE,Data Scientist,159200,US,L
+SE,Data Science Manager,243225,US,M
+SE,Data Science Manager,179775,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,150000,US,M
+SE,Machine Learning Engineer,210000,US,M
+SE,Machine Learning Engineer,180000,US,M
+SE,Data Scientist,148000,US,M
+SE,Data Scientist,128000,US,M
+SE,Data Architect,190000,US,M
+SE,Data Architect,135000,US,M
+SE,Analytics Engineer,130000,US,M
+SE,Analytics Engineer,110000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,85000,US,M
+SE,Data Scientist,218000,US,M
+SE,Data Scientist,145300,US,M
+SE,autre,195400,US,L
+SE,autre,131300,US,L
+EN,autre,105000,US,L
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,207000,US,M
+SE,Data Scientist,153000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Analyst,110000,US,M
+SE,Data Analyst,99000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Machine Learning Engineer,200000,autre,M
+SE,Machine Learning Engineer,135000,autre,M
+SE,Data Scientist,207000,US,M
+SE,Data Scientist,153000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Engineer,195700,US,M
+SE,Data Engineer,130500,US,M
+SE,autre,130000,US,M
+SE,autre,84000,US,M
+MI,autre,100000,US,M
+MI,autre,60000,US,M
+MI,Data Engineer,80036,GB,M
+MI,Data Engineer,67723,GB,M
+SE,Data Engineer,141300,US,M
+SE,Data Engineer,102100,US,M
+SE,Data Analyst,50432,ES,M
+SE,Data Analyst,36773,ES,M
+MI,autre,150000,US,L
+MI,Data Scientist,102200,GB,M
+EN,Data Scientist,22892,IN,M
+SE,Data Analyst,144000,US,M
+SE,Data Analyst,113000,US,M
+EN,autre,31520,ES,M
+SE,Data Architect,195400,US,L
+SE,Data Architect,131300,US,L
+SE,Machine Learning Engineer,195400,US,L
+SE,Machine Learning Engineer,131300,US,L
+SE,Data Architect,195400,US,L
+SE,Data Architect,131300,US,L
+SE,Data Architect,190000,US,M
+SE,Data Architect,135000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,80000,US,M
+EN,autre,8050,IN,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,85000,US,M
+SE,Data Engineer,178800,US,L
+SE,Data Engineer,132100,US,L
+MI,autre,60000,US,S
+SE,Machine Learning Engineer,63040,autre,S
+EN,autre,50000,autre,L
+SE,Data Engineer,140000,US,M
+SE,Data Engineer,105000,US,M
+MI,Data Engineer,80036,GB,M
+MI,Data Engineer,67723,GB,M
+SE,Analytics Engineer,190000,US,M
+SE,Analytics Engineer,140000,US,M
+MI,autre,100000,US,M
+MI,autre,60000,US,M
+SE,Data Scientist,180000,US,L
+SE,Data Scientist,165000,US,L
+SE,autre,108000,US,L
+EN,autre,20000,autre,M
+SE,Data Architect,190000,US,M
+SE,Data Architect,135000,US,M
+SE,Data Scientist,179400,US,M
+SE,Data Scientist,154000,US,M
+SE,autre,193900,US,M
+SE,autre,129300,US,M
+EX,Data Science Manager,222640,US,M
+EX,Data Science Manager,182160,US,M
+MI,Data Engineer,150000,US,M
+MI,Data Engineer,100000,US,M
+SE,Analytics Engineer,122500,US,M
+SE,Analytics Engineer,100000,US,M
+EX,Data Engineer,297500,US,M
+EX,Data Engineer,260000,US,M
+EN,autre,15000,autre,L
+SE,Data Engineer,193000,US,M
+EN,Data Scientist,93000,US,M
+EN,Data Scientist,73000,US,M
+MI,autre,100000,US,M
+MI,autre,60000,US,M
+EN,Data Analyst,7799,autre,L
+SE,Data Scientist,136994,US,M
+SE,Data Scientist,101570,US,M
+SE,autre,250000,US,M
+SE,autre,63000,US,M
+MI,autre,134000,US,M
+MI,autre,98000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,autre,57786,autre,L
+MI,Data Analyst,136000,US,M
+MI,Data Analyst,112000,US,M
+SE,Data Scientist,172000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Engineer,215000,US,M
+SE,Data Engineer,164000,US,M
+SE,Data Engineer,300000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,150000,US,M
+EN,Data Engineer,45390,GB,L
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+MI,Data Analyst,97500,US,L
+SE,Applied Scientist,212800,US,M
+SE,Applied Scientist,142800,US,M
+MI,Data Scientist,73546,autre,L
+EN,Data Scientist,50000,DE,M
+EN,Data Analyst,6359,IN,L
+SE,Data Scientist,151800,US,M
+SE,Data Scientist,130240,US,M
+SE,Analytics Engineer,165000,US,M
+SE,Analytics Engineer,140250,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,115000,US,M
+SE,Data Scientist,179400,US,M
+SE,Data Scientist,154000,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+MI,autre,75000,US,M
+MI,Data Engineer,84053,autre,M
+MI,Data Engineer,73546,autre,M
+MI,Data Engineer,98506,GB,M
+MI,Data Engineer,86193,GB,M
+MI,Data Engineer,84053,ES,M
+MI,Data Engineer,73546,ES,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Analytics Engineer,102663,GB,M
+SE,Analytics Engineer,80041,GB,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Engineer,104611,GB,M
+SE,Data Engineer,82280,GB,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Analyst,115000,US,L
+EN,Data Scientist,31520,ES,M
+SE,autre,81000,US,M
+SE,autre,66000,US,M
+EN,Data Analyst,46000,US,L
+EN,Data Engineer,80000,US,L
+EX,autre,200000,US,S
+EX,autre,180000,US,S
+EX,autre,200000,US,S
+SE,Data Scientist,204100,US,M
+SE,Data Scientist,136100,US,M
+SE,Analytics Engineer,250000,US,M
+SE,Analytics Engineer,63000,US,M
+MI,Data Scientist,118208,GB,M
+MI,Data Scientist,110820,GB,M
+EN,autre,19073,autre,L
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,Data Scientist,191475,US,M
+SE,Data Scientist,141525,US,M
+SE,autre,95000,US,M
+SE,autre,70000,US,M
+MI,autre,75000,US,M
+MI,Analytics Engineer,7500,autre,M
+MI,Data Analyst,113000,US,L
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,130000,US,M
+MI,autre,113000,US,L
+MI,autre,140000,US,M
+SE,Data Analyst,50000,autre,S
+MI,autre,53368,autre,M
+SE,Data Scientist,175000,US,M
+SE,Data Scientist,140000,US,M
+SE,autre,29944,autre,S
+SE,Analytics Engineer,250000,US,M
+SE,Analytics Engineer,63000,US,M
+SE,Data Scientist,160000,US,L
+SE,Data Scientist,119300,US,L
+MI,Research Scientist,145000,US,L
+SE,Data Engineer,105000,US,M
+SE,Data Engineer,90000,US,M
+SE,autre,146200,US,M
+SE,autre,124270,US,M
+MI,Data Scientist,225000,US,M
+MI,Data Scientist,160000,US,M
+MI,Data Scientist,54634,autre,S
+SE,Data Engineer,185800,CA,M
+SE,Data Engineer,137400,CA,M
+SE,Analytics Engineer,245000,US,M
+SE,Analytics Engineer,180000,US,M
+SE,Analytics Engineer,203500,US,M
+SE,Analytics Engineer,152000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,autre,186000,US,M
+SE,autre,148800,US,M
+SE,autre,95386,IN,L
+MI,Machine Learning Engineer,128058,GB,L
+EN,Data Scientist,82000,US,L
+EN,Data Scientist,110000,autre,M
+MI,autre,173000,US,M
+SE,Data Scientist,203500,US,M
+SE,Data Scientist,152000,US,M
+SE,Machine Learning Engineer,186000,US,M
+SE,Machine Learning Engineer,148800,US,M
+EN,autre,6270,autre,L
+MI,Data Science Manager,158000,US,M
+MI,Data Science Manager,134000,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,120000,US,M
+EX,Analytics Engineer,200000,US,M
+EX,Analytics Engineer,150000,US,M
+SE,Data Analyst,216200,US,M
+SE,Data Analyst,144100,US,M
+MI,Data Scientist,115573,autre,M
+MI,Data Scientist,89306,autre,M
+SE,autre,250000,US,M
+SE,autre,63000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,85000,US,M
+SE,Machine Learning Engineer,135000,US,M
+SE,Machine Learning Engineer,85000,US,M
+SE,Data Science Manager,206000,US,M
+SE,Data Science Manager,175100,US,M
+SE,Machine Learning Engineer,189650,US,M
+SE,Machine Learning Engineer,164996,US,M
+SE,Data Architect,149040,US,M
+SE,Data Architect,113900,US,M
+SE,Data Engineer,154000,US,M
+SE,Data Engineer,126000,US,M
+SE,Machine Learning Engineer,200000,US,L
+SE,Machine Learning Engineer,150000,US,L
+SE,Data Engineer,195700,US,M
+SE,Data Engineer,130500,US,M
+SE,Analytics Engineer,170000,US,M
+SE,Analytics Engineer,135000,US,M
+MI,Data Engineer,98506,GB,M
+MI,Data Engineer,73880,GB,M
+SE,Data Analyst,117000,US,M
+SE,Data Analyst,99450,US,M
+SE,Data Engineer,200000,autre,M
+SE,Data Engineer,135000,autre,M
+SE,Machine Learning Engineer,193900,US,M
+SE,Machine Learning Engineer,129300,US,M
+EN,Machine Learning Engineer,55410,GB,S
+SE,Data Analyst,86193,GB,M
+SE,Data Analyst,61566,GB,M
+SE,Data Analyst,175000,US,M
+SE,Data Analyst,130000,US,M
+SE,Data Engineer,188100,US,M
+SE,Data Engineer,139860,US,M
+SE,Machine Learning Engineer,248700,US,M
+SE,Machine Learning Engineer,167100,US,M
+MI,Data Analyst,5723,IN,S
+SE,Data Scientist,123400,US,M
+SE,Data Scientist,88100,US,M
+MI,autre,50432,DE,S
+SE,Data Scientist,245000,US,M
+SE,Data Scientist,205000,US,M
+SE,Data Engineer,141300,US,M
+SE,Data Engineer,102100,US,M
+SE,Data Architect,141300,US,M
+SE,Data Architect,102100,US,M
+EN,Data Analyst,50000,autre,L
+EN,Data Scientist,84053,autre,L
+MI,autre,61566,GB,S
+SE,Data Architect,250000,US,M
+SE,Data Architect,63000,US,M
+SE,Data Science Manager,189500,US,L
+SE,Data Science Manager,140100,US,L
+SE,Data Engineer,177600,US,L
+SE,Data Engineer,131300,US,L
+MI,Data Engineer,24000,US,M
+MI,Data Engineer,24000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Machine Learning Engineer,202900,US,L
+SE,Machine Learning Engineer,131300,US,L
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,115000,US,M
+EN,Machine Learning Engineer,115000,US,L
+MI,Machine Learning Engineer,193900,US,M
+MI,Machine Learning Engineer,129300,US,M
+SE,Data Scientist,180000,US,L
+SE,Data Scientist,140000,US,L
+MI,Data Analyst,216200,US,M
+MI,Data Analyst,144100,US,M
+SE,autre,216000,US,M
+SE,autre,144000,US,M
+EN,Data Analyst,150000,US,L
+EN,autre,12171,IN,M
+MI,Data Scientist,53416,autre,L
+EN,autre,50000,autre,M
+SE,autre,250000,US,L
+EX,Research Scientist,84053,autre,L
+MI,Data Scientist,131752,GB,M
+SE,Analytics Engineer,48000,US,S
+EX,Data Science Manager,260500,US,M
+EX,Data Science Manager,175100,US,M
+SE,Data Engineer,210000,US,M
+SE,Data Engineer,100000,US,M
+EN,Data Analyst,55000,US,S
+MI,Data Analyst,130000,US,M
+SE,autre,77119,GB,L
+EN,Data Scientist,52008,autre,S
+MI,autre,30523,IN,S
+SE,Data Engineer,206699,US,M
+SE,Data Engineer,99100,US,M
+MI,Analytics Engineer,200000,US,M
+MI,Analytics Engineer,54000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+SE,Data Architect,250000,US,M
+SE,Data Architect,63000,US,M
+SE,Data Engineer,250000,US,M
+SE,Data Engineer,63000,US,M
+EN,Analytics Engineer,130000,US,L
+SE,Data Engineer,100000,US,L
+SE,Data Engineer,80000,US,L
+SE,Data Scientist,160000,US,L
+SE,Data Scientist,100000,US,L
+SE,autre,221300,US,L
+SE,autre,148700,US,L
+EN,Machine Learning Engineer,30000,GB,L
+EN,Data Analyst,28368,autre,M
+MI,Data Engineer,91118,GB,M
+MI,Data Engineer,61566,GB,M
+MI,Data Scientist,60938,DE,S
+SE,Data Science Manager,249260,US,M
+SE,Data Science Manager,185400,US,M
+SE,Data Engineer,170000,US,M
+SE,Data Engineer,130000,US,M
+MI,Data Scientist,80036,GB,M
+SE,Data Analyst,128875,US,M
+SE,Data Analyst,93700,US,M
+SE,Machine Learning Engineer,180000,US,M
+SE,Machine Learning Engineer,100000,US,M
+SE,Data Analyst,136260,US,M
+SE,Data Analyst,109280,US,M
+SE,Data Scientist,160000,US,L
+SE,Data Scientist,92000,US,L
+SE,Data Engineer,200000,US,M
+SE,Data Engineer,160000,US,M
+MI,Data Engineer,135446,GB,M
+MI,Data Engineer,104663,GB,M
+SE,Data Analyst,117000,US,M
+SE,Data Analyst,99450,US,M
+EN,Data Engineer,129000,US,L
+EN,Data Engineer,86000,US,L
+EN,Data Engineer,13493,IN,L
+EN,Data Engineer,13493,IN,L
+SE,Data Scientist,160000,US,L
+SE,Data Scientist,119300,US,L
+SE,autre,100000,US,L
+MI,Data Scientist,25000,autre,M
+MI,Data Analyst,65257,autre,M
+MI,autre,200000,US,M
+EN,autre,180000,US,L
+MI,Data Scientist,153000,US,L
+SE,Data Engineer,210000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Analyst,150075,US,M
+SE,Data Analyst,110925,US,M
+MI,autre,22800,autre,M
+SE,Data Scientist,160000,US,L
+SE,Data Scientist,92000,US,L
+SE,Machine Learning Engineer,202900,US,L
+SE,Machine Learning Engineer,131300,US,L
+EN,Data Analyst,22809,autre,M
+EN,Data Analyst,15000,autre,L
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Science Manager,133766,autre,L
+EN,Machine Learning Engineer,83000,US,L
+MI,Data Engineer,92350,GB,M
+MI,Data Engineer,67723,GB,M
+SE,Data Scientist,186000,US,M
+SE,Data Scientist,148800,US,M
+SE,Data Analyst,112900,US,M
+SE,Data Analyst,90320,US,M
+SE,autre,240000,US,M
+SE,autre,160000,US,M
+SE,Data Science Manager,300000,US,M
+SE,Data Science Manager,200000,US,M
+MI,Data Engineer,65666,DE,S
+MI,autre,200000,US,L
+MI,Machine Learning Engineer,116976,GB,M
+MI,Machine Learning Engineer,92350,GB,M
+MI,autre,120000,US,M
+SE,Data Analyst,112900,US,M
+SE,Data Analyst,90320,US,M
+SE,autre,145000,US,M
+SE,autre,105400,US,M
+EN,Data Scientist,49268,DE,S
+MI,Data Engineer,110820,GB,M
+MI,Data Engineer,92350,GB,M
+SE,Data Scientist,215300,US,L
+SE,Data Scientist,158200,US,L
+SE,Data Engineer,209100,US,L
+SE,Data Engineer,154600,US,L
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+SE,Data Engineer,175000,US,M
+SE,Data Engineer,155000,US,M
+MI,Machine Learning Engineer,84053,DE,M
+SE,Data Analyst,164000,US,M
+SE,Data Analyst,132000,US,M
+SE,Data Scientist,170000,US,M
+SE,Data Scientist,123000,US,M
+SE,Machine Learning Engineer,189650,US,M
+SE,Machine Learning Engineer,164996,US,M
+MI,autre,52533,autre,M
+MI,autre,52533,autre,M
+EX,autre,115222,CA,S
+SE,Data Engineer,165400,US,M
+SE,Data Engineer,132320,US,M
+SE,Data Architect,208775,US,M
+SE,Data Architect,147800,US,M
+SE,Data Engineer,136994,US,M
+SE,Data Engineer,101570,US,M
+SE,Data Analyst,128875,US,M
+SE,Data Analyst,93700,US,M
+EX,autre,76309,IN,L
+EN,Machine Learning Engineer,35093,GB,L
+SE,Data Engineer,183600,US,L
+SE,Data Engineer,100800,US,L
+MI,Data Analyst,49253,GB,M
+MI,Data Analyst,36940,GB,M
+MI,Data Analyst,42026,ES,M
+MI,Data Analyst,31520,ES,M
+MI,Data Engineer,84053,ES,M
+MI,Data Engineer,73546,ES,M
+MI,Data Engineer,98506,GB,M
+MI,Data Engineer,86193,GB,M
+MI,Data Engineer,84053,autre,M
+MI,Data Engineer,73546,autre,M
+SE,Machine Learning Engineer,189650,US,M
+SE,Machine Learning Engineer,164996,US,M
+MI,Data Analyst,42026,autre,M
+MI,Data Analyst,31520,autre,M
+MI,Data Engineer,92350,GB,M
+MI,Data Engineer,73880,GB,M
+SE,Data Scientist,215300,US,L
+SE,Data Scientist,140400,US,L
+MI,Data Engineer,63040,ES,M
+MI,Data Engineer,47280,ES,M
+SE,Data Scientist,260000,US,M
+SE,Data Scientist,180000,US,M
+MI,Data Scientist,67723,GB,M
+MI,Data Scientist,43096,GB,M
+MI,Data Engineer,63040,autre,M
+MI,Data Engineer,47280,autre,M
+MI,Data Engineer,73880,GB,M
+MI,Data Engineer,55410,GB,M
+MI,Machine Learning Engineer,51064,autre,L
+SE,autre,60000,autre,L
+MI,Data Engineer,82900,US,M
+MI,Data Engineer,63900,US,M
+MI,autre,160000,US,L
+MI,autre,112300,US,L
+MI,Data Science Manager,241000,US,M
+MI,Data Science Manager,159000,US,M
+SE,Data Scientist,180000,US,M
+SE,Data Scientist,80000,US,M
+MI,Data Analyst,58000,US,S
+MI,Data Analyst,58000,US,S
+SE,Data Engineer,136000,US,M
+SE,Data Engineer,108800,US,M
+EX,Data Engineer,242000,US,M
+EX,Data Engineer,200000,US,M
+MI,Data Scientist,61566,GB,M
+MI,Data Scientist,36940,GB,M
+MI,Data Engineer,73880,GB,M
+MI,Data Engineer,49253,GB,M
+SE,Data Scientist,165220,US,M
+SE,Data Scientist,120160,US,M
+SE,Data Analyst,124190,US,M
+SE,Data Analyst,90320,US,M
+SE,Data Engineer,181940,US,M
+SE,Data Engineer,132320,US,M
+SE,Data Engineer,220110,US,M
+SE,Data Engineer,160080,US,M
+SE,Data Scientist,180000,US,L
+SE,Data Scientist,120000,US,L
+MI,Data Analyst,126500,US,M
+MI,Data Analyst,106260,US,M
+SE,Data Analyst,116000,US,M
+SE,Data Analyst,99000,US,M
+SE,Data Analyst,155000,US,M
+SE,Data Analyst,120600,US,M
+MI,Data Scientist,130000,US,M
+MI,Data Scientist,90000,US,M
+MI,Data Engineer,170000,US,M
+MI,Data Engineer,150000,US,M
+SE,Data Analyst,102100,US,M
+SE,Data Analyst,84900,US,M
+SE,Data Scientist,136620,US,M
+SE,Data Scientist,99360,US,M
+SE,Data Scientist,110820,GB,M
+SE,Data Scientist,98506,GB,M
+SE,Data Scientist,146000,US,M
+SE,Data Scientist,123000,US,M
+EN,Data Engineer,49253,GB,M
+EN,Data Engineer,43096,GB,M
+EX,Data Analyst,130000,US,M
+EX,Data Analyst,110000,US,M
+SE,Data Analyst,170000,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Science Manager,161342,US,M
+SE,Data Science Manager,137141,US,M
+SE,Data Scientist,167000,US,M
+SE,Data Scientist,123000,US,M
+SE,Data Engineer,73880,GB,M
+SE,Data Engineer,61566,GB,M
+SE,Data Scientist,211500,US,M
+SE,Data Scientist,138600,US,M
+SE,Data Architect,192400,CA,M
+SE,Data Architect,90700,CA,M
+SE,Data Analyst,130000,CA,M
+SE,Data Analyst,61300,CA,M
+SE,Data Analyst,130000,CA,M
+SE,Data Analyst,61300,CA,M
+SE,Data Engineer,160000,US,L
+SE,Data Engineer,113000,US,L
+SE,Data Scientist,150000,US,M
+SE,Data Scientist,95550,US,M
+MI,Data Analyst,167000,US,M
+MI,Data Analyst,115500,US,M
+SE,Data Analyst,112900,US,M
+SE,Data Analyst,90320,US,M
+SE,Data Analyst,112900,US,M
+SE,Data Analyst,90320,US,M
+SE,Data Engineer,165400,US,M
+SE,Data Engineer,132320,US,M
+SE,Data Engineer,243900,US,M
+SE,Data Engineer,156600,US,M
+SE,Data Analyst,136600,US,M
+SE,Data Analyst,109280,US,M
+SE,Data Engineer,128875,US,M
+SE,Data Engineer,93700,US,M
+EX,autre,224000,US,M
+EX,autre,167875,US,M
+EX,Analytics Engineer,175000,US,M
+EX,Analytics Engineer,135000,US,M
+SE,Data Engineer,209100,US,L
+SE,Data Engineer,154600,US,L
+SE,Data Engineer,180000,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Scientist,205300,US,L
+SE,Data Scientist,140400,US,L
+SE,Data Scientist,176000,US,M
+SE,Data Scientist,144000,US,M
+SE,Data Engineer,200100,US,M
+SE,Data Engineer,160000,US,M
+SE,Data Engineer,70500,US,M
+SE,Data Engineer,54000,US,M
+SE,Data Scientist,205300,US,M
+SE,Data Scientist,140400,US,M
+SE,Analytics Engineer,205300,US,M
+SE,Analytics Engineer,184700,US,M
+SE,Data Engineer,175100,US,M
+SE,Data Engineer,140250,US,M
+SE,Data Analyst,116150,US,M
+SE,Data Analyst,99050,US,M
+SE,Data Engineer,145000,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Analyst,112900,US,M
+SE,Data Analyst,90320,US,M
+MI,Data Analyst,85000,CA,M
+MI,Data Analyst,75000,CA,M
+SE,Machine Learning Engineer,214000,US,M
+SE,Machine Learning Engineer,192600,US,M
+SE,Data Architect,266400,US,M
+SE,Data Architect,213120,US,M
+SE,Data Engineer,155000,US,M
+SE,Data Engineer,115000,US,M
+MI,Data Scientist,141300,US,M
+MI,Data Scientist,102100,US,M
+SE,Data Analyst,115934,US,M
+SE,Data Analyst,81666,US,M
+MI,Data Engineer,206699,US,M
+MI,Data Engineer,99100,US,M
+SE,Data Engineer,130000,US,M
+SE,Data Engineer,110500,US,M
+MI,Data Analyst,61566,GB,M
+MI,Data Analyst,43096,GB,M
+SE,Data Analyst,80000,US,M
+SE,Data Analyst,60000,US,M
+SE,Data Architect,192564,US,M
+SE,Data Architect,144854,US,M
+SE,Data Scientist,230000,US,M
+SE,Data Scientist,150000,US,M
+SE,autre,150260,US,M
+SE,autre,109280,US,M
+SE,Data Analyst,170000,US,M
+SE,Data Analyst,150000,US,M
+MI,Data Scientist,160000,US,M
+MI,Data Scientist,130000,US,M
+EN,Data Analyst,67000,CA,M
+EN,Data Analyst,52000,CA,M
+SE,Data Engineer,154000,US,M
+SE,Data Engineer,126000,US,M
+SE,Data Analyst,129000,US,M
+SE,Data Analyst,99000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Analyst,100000,US,M
+SE,Data Analyst,69000,US,M
+SE,Data Scientist,210000,US,M
+SE,Data Scientist,140000,US,M
+SE,Data Analyst,150075,US,M
+SE,Data Analyst,110925,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Engineer,25000,US,M
+SE,Data Analyst,126500,US,M
+SE,Data Analyst,106260,US,M
+SE,Data Engineer,220110,US,M
+SE,Data Engineer,160080,US,M
+SE,Data Analyst,105000,US,M
+SE,Data Analyst,100000,US,M
+SE,Data Analyst,170000,US,M
+SE,Data Analyst,135000,US,M
+SE,Data Scientist,230000,US,M
+SE,Data Scientist,140000,US,M
+MI,Data Analyst,135000,US,M
+MI,Data Analyst,50000,US,M
+SE,Data Scientist,220000,US,M
+SE,Data Scientist,140000,US,M
+MI,Data Scientist,172386,GB,M
+MI,Data Scientist,86193,GB,M
+SE,Machine Learning Engineer,220000,US,M
+SE,Machine Learning Engineer,120000,US,M
+MI,Data Scientist,200000,US,M
+MI,Data Scientist,120000,US,M
+SE,Machine Learning Engineer,120000,autre,S
+SE,Machine Learning Engineer,65000,autre,S
+EX,Data Engineer,324000,US,M
+EX,Data Engineer,216000,US,M
+SE,Data Engineer,210000,US,M
+SE,Data Engineer,100000,US,M
+SE,Data Scientist,185100,US,M
+SE,Data Scientist,104890,US,M
+SE,Data Engineer,105000,US,M
+SE,Data Engineer,80000,US,M
+MI,autre,76814,CA,M
+SE,autre,117104,CA,L
+EX,autre,192037,CA,L
+MI,Machine Learning Engineer,120000,US,S
+MI,autre,17805,IN,M
+MI,Data Scientist,30523,IN,L
+MI,autre,55685,autre,L
+MI,Data Engineer,52533,DE,L
+EN,Data Scientist,17805,IN,M
+MI,autre,75000,US,L
+MI,autre,157000,US,L
+MI,autre,69133,CA,L
+EN,Data Engineer,65000,US,S
+SE,Machine Learning Engineer,68293,autre,S
+MI,Data Scientist,109000,US,L
+MI,Data Scientist,67597,CA,M
+EN,autre,10000,autre,M
+MI,Data Analyst,20000,autre,S
+SE,autre,102839,autre,L
+SE,autre,200000,US,M
+EN,Data Scientist,51081,CA,L
+MI,Data Scientist,78000,US,M
+SE,Data Engineer,135000,US,M
+SE,Data Engineer,115000,US,M
+MI,Machine Learning Engineer,83864,autre,L
+EN,Data Scientist,40000,autre,L
+MI,autre,31520,autre,S
+SE,Machine Learning Engineer,59888,autre,L
+EN,Data Engineer,54742,DE,L
+SE,Research Scientist,89306,autre,L
+EN,Data Scientist,83171,autre,M
+SE,Data Scientist,165000,US,M
+MI,autre,153000,US,M
+SE,Data Scientist,100000,US,M
+SE,autre,76814,CA,M
+MI,Data Scientist,33609,autre,L
+MI,autre,75000,CA,S
+MI,autre,20000,autre,S
+EN,autre,30469,autre,M
+MI,Research Scientist,69999,autre,L
+EN,Data Engineer,55475,DE,M
+MI,Research Scientist,61989,autre,L
+SE,Data Science Manager,152500,US,M
+EN,Research Scientist,120000,US,L
+MI,Data Scientist,135000,US,L
+SE,autre,405000,US,L
+SE,Data Engineer,150000,US,L
+SE,Data Science Manager,240000,US,L
+MI,Data Analyst,135000,US,L
+EN,Data Scientist,80000,US,M
+SE,autre,380000,US,L
+MI,Data Scientist,120402,autre,L
+SE,autre,177000,US,L
+MI,Data Engineer,65141,autre,M
+MI,Data Scientist,48000,US,S
+EN,autre,20000,autre,M
+SE,autre,220000,US,L
+MI,autre,77364,autre,S
+MI,autre,63711,autre,S
+EN,autre,150000,autre,S
+MI,Data Analyst,90000,US,M
+MI,Data Scientist,100000,US,M
+EN,Data Scientist,100000,US,S
+EN,Data Scientist,100000,autre,M
+SE,Research Scientist,144000,US,L
+SE,autre,155499,DE,M
+SE,autre,24000,autre,M
+MI,autre,38400,US,M
+EN,autre,100000,US,L
+MI,Data Scientist,82500,US,S
+EN,Data Scientist,49646,autre,M
+SE,autre,40570,IN,L
+EN,Data Engineer,120000,US,M
+SE,autre,84053,DE,M
+EN,Machine Learning Engineer,20000,IN,S
+EN,autre,125000,US,M
+MI,Data Scientist,9466,IN,S
+SE,autre,120000,US,S
+EN,Data Analyst,10354,ES,M
+EN,autre,110037,GB,L
+EN,autre,21013,autre,L
+EN,Data Analyst,50000,US,M
+SE,autre,200000,US,M
+MI,autre,60000,autre,M
+MI,Data Engineer,200000,US,L
+EN,autre,100000,autre,S
+MI,Data Engineer,100000,US,L
+SE,Machine Learning Engineer,82744,autre,M
+MI,Data Engineer,59303,DE,S
+MI,Research Scientist,62649,autre,M
+MI,Data Engineer,82528,GB,L
+MI,Data Architect,170000,US,L
+MI,Data Architect,150000,US,L
+EN,autre,55000,US,S
+EX,autre,250000,US,L
+EN,Data Engineer,80000,US,L
+EN,autre,70000,US,L
+EX,autre,130026,DE,M
+EN,autre,63831,DE,L
+SE,Data Scientist,68428,US,L
+EX,autre,85000,autre,M
+EX,autre,230000,autre,L
+EN,Machine Learning Engineer,125000,US,S
+SE,autre,120000,US,M
+MI,Research Scientist,450000,US,M
+MI,Data Analyst,46759,autre,L
+MI,Data Engineer,74130,autre,L
+SE,autre,127221,CA,L
+SE,Data Science Manager,144000,US,L
+EN,Data Scientist,13400,autre,L
+MI,Data Scientist,75774,CA,L
+MI,Data Scientist,150000,US,M
+MI,autre,103000,US,L
+SE,Data Engineer,153000,US,L
+MI,Data Engineer,90000,US,L
+EN,Data Analyst,90000,US,S
+EN,Data Analyst,60000,US,S
+MI,Data Scientist,50000,autre,L
+EN,autre,12000,US,M
+MI,autre,5409,IN,M
+MI,autre,270000,US,L
+MI,autre,54238,CA,L
+MI,Machine Learning Engineer,47282,ES,S
+EX,autre,153667,autre,L
+MI,Data Engineer,28476,autre,L
+MI,autre,110000,US,L
+EN,Research Scientist,82528,GB,L
+EN,Machine Learning Engineer,250000,US,L
+EN,Data Analyst,59102,autre,M
+SE,Data Analyst,80000,US,S
+EN,Data Analyst,10000,autre,S
+EN,Machine Learning Engineer,138000,US,S
+MI,Data Engineer,140000,US,L
+SE,autre,79197,DE,L
+SE,autre,170000,US,L
+EN,Data Analyst,80000,US,M
+MI,Data Scientist,45760,US,S
+MI,autre,100000,US,M
+SE,Data Scientist,53192,autre,L
+EX,autre,235000,US,L
+EX,autre,150000,US,L
+EX,Data Engineer,79833,ES,L
+EN,autre,225000,US,L
+EN,autre,76833,DE,S
+MI,autre,50180,autre,M
+SE,autre,88654,autre,L
+SE,autre,103160,GB,S
+SE,Data Engineer,113476,GB,M
+SE,Machine Learning Engineer,94564,DE,L
+EN,Data Engineer,30428,IN,L
+SE,Data Engineer,150000,US,M
+SE,Data Engineer,115000,US,S
+MI,Research Scientist,187442,CA,L
+MI,Data Analyst,51519,GB,L
+MI,Data Engineer,106000,US,L
+MI,Data Engineer,112872,GB,L
+MI,autre,36259,US,L
+SE,Data Engineer,150000,US,L
+EN,autre,15966,DE,S
+MI,autre,95746,US,S
+EN,autre,70000,US,M
+MI,Data Scientist,76958,GB,S
+MI,autre,89294,autre,L
+EN,Data Scientist,29751,IN,L
+SE,autre,276000,US,L
+SE,Data Engineer,188000,US,L
+SE,autre,160000,US,S
+MI,Data Scientist,105000,US,L
+MI,Data Engineer,200000,US,L
+SE,Data Engineer,174000,US,L
+MI,Data Analyst,93000,US,L
+EN,Data Scientist,28399,IN,M
+SE,Research Scientist,60757,autre,L
+EN,Data Scientist,90000,US,S
+MI,Data Engineer,70139,autre,L
+EN,Data Analyst,6072,IN,S
+SE,Data Engineer,33511,autre,S
+SE,autre,170000,US,M
+SE,Data Engineer,96282,GB,L
+MI,Data Engineer,12103,autre,M
+EN,Data Scientist,36643,autre,L
+MI,Data Engineer,72212,GB,L
+EN,Data Analyst,91000,US,L
+SE,autre,99703,CA,M
+SE,Data Scientist,165000,US,L
+MI,Data Analyst,80000,US,L
+SE,Data Scientist,103691,CA,L
+EN,Data Engineer,21637,IN,M
+EN,Research Scientist,42000,autre,L
+MI,autre,115000,autre,L
+MI,Research Scientist,63810,CA,M
+SE,autre,260000,autre,S
+MI,autre,110000,US,S
+MI,Data Architect,180000,US,L
+SE,Data Analyst,200000,US,L
+SE,autre,109024,GB,M
+SE,Data Engineer,200000,US,L
+SE,autre,256000,US,S
+MI,Data Engineer,110000,US,L
+MI,Data Scientist,79833,DE,L
+EN,Data Engineer,72500,US,L
+SE,Machine Learning Engineer,185000,US,L
+MI,Data Engineer,69741,autre,L
+EN,Research Scientist,100000,autre,L
+MI,Data Engineer,112000,US,L
+SE,Machine Learning Engineer,150000,US,L
+SE,Data Scientist,20171,autre,L
+SE,autre,55000,ES,L
+EN,Data Scientist,58000,US,L
+EN,Data Scientist,100000,US,M
+SE,Data Scientist,77684,autre,M
+EN,Machine Learning Engineer,85000,DE,S
+EN,autre,76833,DE,L
+SE,autre,105000,US,M
+EN,Data Analyst,72000,US,L
+EN,Data Engineer,65013,DE,M
+MI,Data Engineer,28016,autre,M
+MI,Data Engineer,111775,US,M
+MI,Data Engineer,93150,US,M
+SE,autre,160000,US,S
+MI,Data Scientist,25532,DE,S
+SE,Machine Learning Engineer,66265,IN,L
+MI,Data Scientist,16904,IN,S
+SE,Data Analyst,63831,DE,L
+SE,autre,190000,US,S
+EX,autre,141846,DE,L
+EN,autre,16228,IN,L
+SE,Data Analyst,71786,CA,M
+MI,Data Scientist,35735,autre,L
+SE,Data Scientist,135000,US,L
+EN,Machine Learning Engineer,24823,DE,M
+SE,Data Science Manager,54094,US,L
+SE,Machine Learning Engineer,24342,IN,L
+EN,autre,9272,autre,S
+MI,Data Scientist,147000,US,L
+SE,Research Scientist,96113,CA,L
+SE,Data Science Manager,174000,US,L
+MI,autre,135000,US,L
+EN,Machine Learning Engineer,21844,autre,M
+SE,autre,125000,autre,S
+EN,Data Scientist,51321,autre,S
+MI,Data Scientist,40481,IN,L
+EX,autre,69741,ES,S
+SE,autre,50000,GB,M
+EN,Data Scientist,39916,autre,M
+MI,autre,87000,US,L
+MI,Data Engineer,26005,US,L
+MI,Data Scientist,90734,DE,L
+MI,autre,22611,IN,L
+MI,Data Scientist,5679,US,S
+EN,Machine Learning Engineer,81000,US,S
+MI,Data Scientist,40038,autre,L
+EN,autre,90000,US,S
+MI,Data Scientist,61467,autre,M
+SE,autre,195000,US,M
+MI,Data Scientist,37825,ES,L
+MI,Data Analyst,85000,US,L
+EX,autre,416000,US,S
+SE,autre,225000,CA,L
+MI,Data Scientist,56256,GB,L
+MI,Data Scientist,33808,IN,M
+MI,Data Scientist,116914,GB,L
+MI,Machine Learning Engineer,46597,autre,L
+MI,Data Analyst,8000,autre,L
+EN,Data Engineer,41689,autre,S
+SE,autre,114047,GB,S
+MI,Machine Learning Engineer,88654,autre,M
+EN,autre,5707,IN,M
+MI,autre,56000,US,M
+EN,autre,28609,autre,S
+MI,Data Scientist,88654,DE,L
+MI,autre,6072,IN,L
+SE,Data Engineer,47899,autre,L
+MI,autre,98000,US,M
+MI,Data Engineer,66022,GB,S
+MI,Research Scientist,56738,autre,S
+MI,Machine Learning Engineer,24823,autre,L
+SE,autre,120000,US,L
+MI,Data Engineer,20000,US,L
+EX,autre,325000,US,L
+SE,Machine Learning Engineer,200000,US,L
+EN,autre,45896,autre,S
+MI,Data Scientist,160000,US,L
+SE,Research Scientist,50000,US,S
+MI,autre,40189,autre,M
+MI,Data Scientist,12901,autre,S
+SE,Data Engineer,165000,US,M
+EN,autre,5882,autre,L
+MI,Data Scientist,42197,autre,S
+SE,autre,185000,US,L
+EN,Data Scientist,62726,DE,S
+MI,Data Scientist,90734,DE,L
+EN,Data Scientist,21669,autre,S
+MI,Data Engineer,110000,US,L
+SE,autre,140000,US,L
+SE,Data Scientist,120000,US,L
+SE,Data Scientist,87738,CA,S
+SE,autre,61896,GB,L
+MI,autre,12000,autre,M
+SE,Data Engineer,76833,GB,S
+MI,Machine Learning Engineer,74000,autre,S
+SE,Data Science Manager,152000,autre,L
+MI,autre,18000,autre,S
+SE,autre,60000,US,S
+MI,Data Scientist,130000,US,L
+SE,autre,18907,autre,M
+EN,autre,59102,autre,L
+SE,autre,173762,DE,M
+SE,autre,148261,DE,M
+MI,Data Scientist,38776,ES,M
+MI,Data Scientist,46809,ES,M
+EN,autre,18053,autre,S
+SE,Data Scientist,91237,autre,S
+MI,Data Scientist,62726,autre,S
+MI,Data Scientist,115000,US,L
+SE,autre,235000,US,L
+MI,autre,19609,IN,L
+EN,autre,12000,US,S
+MI,Data Analyst,75000,US,L
+MI,Data Analyst,62000,US,L
+MI,Data Scientist,73000,US,L
+MI,Data Engineer,45391,autre,L
+SE,Data Science Manager,190200,US,M
+MI,Data Scientist,118000,US,M
+MI,Data Scientist,138350,US,M
+MI,Data Engineer,130800,US,M
+SE,Machine Learning Engineer,45618,autre,S
+SE,autre,168000,autre,S
+MI,Data Scientist,119059,autre,M
+MI,autre,423000,US,L
+MI,Data Engineer,28369,autre,L
+SE,autre,165000,US,L
+SE,Data Scientist,412000,US,L
+MI,autre,151000,US,L
+EN,Data Scientist,105000,US,S
+EN,autre,100000,US,L
+SE,Data Science Manager,94665,IN,L
