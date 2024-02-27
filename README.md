@@ -1,6 +1,8 @@
 # Analyse des Salaires dans le Domaine de la Science des Données
 
-Ce projet contient une analyse exploratoire des données sur les salaires dans le domaine de la science des données. L'objectif est de comprendre les facteurs qui influencent les salaires dans ce secteur et de fournir des insights pour les professionnels et les employeurs du domaine.
+Ce projet réalise une analyse approfondie des salaires dans le secteur de la data science, incluant un tableau de bord interactif pour une meilleure visualisation des données. L'objectif est d'identifier les facteurs influençant les salaires dans ce domaine et de fournir des insights utiles aux professionnels et employeurs concernés.
+
+[lien vers mon tableau de bord interactif](https://app.powerbi.com/links/ct8GAjNLIA?ctid=e065ecf4-22b4-4599-9daf-24c5cb5e12d3&pbi_source=linkShare&bookmarkGuid=4d6f2c6f-d5fe-43b0-b0d5-8da9e0d4e904)
 
 ## Contexte
 
